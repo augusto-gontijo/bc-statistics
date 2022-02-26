@@ -1,0 +1,5001 @@
+id;gender;age;height;education
+1;F;49;1.94;High School
+2;M;33;1.87;None
+3;M;23;1.85;High School
+4;F;32;1.71;Elementary
+5;F;43;1.49;PhD
+6;F;58;1.5;None
+7;F;23;1.87;Elementary
+8;F;70;2;High School
+9;F;40;1.73;Master's
+10;M;66;1.9;Elementary
+11;M;53;1.83;PhD
+12;F;32;1.72;Bachelor's
+13;F;41;1.53;High School
+14;F;20;1.87;None
+15;M;57;1.88;None
+16;M;71;1.54;High School
+17;F;44;1.55;High School
+18;F;45;1.82;Master's
+19;M;65;1.95;PhD
+20;F;46;1.92;Bachelor's
+21;M;57;1.94;None
+22;F;68;1.59;Elementary
+23;M;52;1.7;PhD
+24;M;26;1.77;Master's
+25;F;32;1.9;Master's
+26;F;26;1.84;Bachelor's
+27;F;38;1.48;Elementary
+28;M;43;1.55;None
+29;F;23;1.84;Bachelor's
+30;M;75;1.82;Elementary
+31;M;67;1.5;High School
+32;M;45;1.97;None
+33;M;65;1.62;Master's
+34;M;24;1.73;High School
+35;F;59;1.56;Bachelor's
+36;M;53;1.48;PhD
+37;F;33;1.66;Master's
+38;M;73;1.82;Bachelor's
+39;M;74;1.65;PhD
+40;F;75;1.89;None
+41;M;36;1.73;Bachelor's
+42;F;68;1.94;Master's
+43;F;18;1.62;Elementary
+44;M;74;1.82;High School
+45;M;22;2.01;Elementary
+46;F;55;1.82;Bachelor's
+47;F;50;1.61;PhD
+48;F;73;1.86;Master's
+49;F;68;1.53;Master's
+50;F;45;1.9;None
+51;M;72;1.88;None
+52;F;20;1.87;Master's
+53;M;45;1.51;Elementary
+54;F;44;1.59;None
+55;F;56;1.81;None
+56;M;34;2;Bachelor's
+57;F;63;1.94;Master's
+58;M;72;1.85;Elementary
+59;F;70;1.75;None
+60;F;19;1.63;Bachelor's
+61;F;62;1.5;None
+62;F;38;1.8;PhD
+63;M;73;1.99;Bachelor's
+64;M;66;1.94;Bachelor's
+65;M;46;1.82;Master's
+66;M;50;1.62;PhD
+67;M;31;1.88;High School
+68;F;60;1.54;None
+69;F;29;1.83;PhD
+70;M;51;1.85;Bachelor's
+71;M;54;1.66;Bachelor's
+72;M;67;1.49;None
+73;M;24;1.75;Elementary
+74;M;33;1.72;Master's
+75;M;23;1.85;Elementary
+76;M;76;1.69;Master's
+77;F;27;1.57;PhD
+78;F;67;1.52;Elementary
+79;M;57;1.55;High School
+80;F;46;1.87;High School
+81;F;41;1.59;Elementary
+82;M;29;1.62;High School
+83;F;56;1.65;Elementary
+84;M;55;1.63;PhD
+85;F;44;1.75;None
+86;F;56;1.81;None
+87;M;23;1.63;Bachelor's
+88;F;74;1.68;Master's
+89;F;61;1.89;Elementary
+90;F;44;1.87;High School
+91;F;64;1.9;Bachelor's
+92;M;25;1.78;None
+93;M;70;1.92;Bachelor's
+94;M;70;1.69;Elementary
+95;M;63;1.72;Bachelor's
+96;M;51;1.71;High School
+97;F;44;1.47;None
+98;F;33;1.67;Master's
+99;M;45;1.79;Bachelor's
+100;F;39;1.76;High School
+101;F;50;1.46;Bachelor's
+102;F;45;1.7;Master's
+103;F;51;1.5;PhD
+104;M;37;1.59;High School
+105;M;21;1.54;None
+106;M;46;1.58;None
+107;F;36;1.51;PhD
+108;F;57;1.79;Bachelor's
+109;M;45;1.69;None
+110;M;66;1.64;High School
+111;M;34;1.63;High School
+112;F;35;1.79;PhD
+113;F;37;1.87;Bachelor's
+114;M;35;1.51;High School
+115;M;74;1.75;None
+116;M;52;1.66;None
+117;F;62;1.46;Master's
+118;F;24;2;None
+119;F;32;1.57;PhD
+120;M;18;1.65;None
+121;M;28;1.8;High School
+122;F;21;1.92;None
+123;F;66;1.74;High School
+124;F;55;1.93;Bachelor's
+125;M;58;1.55;PhD
+126;M;76;1.85;Master's
+127;M;55;1.93;High School
+128;M;29;1.84;PhD
+129;F;56;1.55;High School
+130;M;19;1.75;Bachelor's
+131;M;41;1.69;Master's
+132;F;21;1.92;PhD
+133;M;67;1.55;None
+134;F;62;1.55;Elementary
+135;M;21;1.8;PhD
+136;F;21;1.9;Master's
+137;M;52;1.56;Bachelor's
+138;M;75;1.95;High School
+139;M;32;1.57;Elementary
+140;M;72;1.88;None
+141;F;28;1.97;Elementary
+142;F;37;1.94;PhD
+143;M;71;1.72;PhD
+144;M;37;1.46;High School
+145;F;26;1.53;High School
+146;F;35;1.62;PhD
+147;F;67;1.55;Bachelor's
+148;M;42;1.62;Elementary
+149;F;40;1.5;Bachelor's
+150;M;71;1.46;Master's
+151;M;42;1.97;Master's
+152;F;70;1.59;Master's
+153;F;58;2.01;High School
+154;F;50;1.83;Elementary
+155;F;18;1.89;None
+156;F;18;2.01;Bachelor's
+157;M;23;1.67;Bachelor's
+158;M;41;1.61;PhD
+159;F;25;1.94;None
+160;M;52;1.85;None
+161;F;76;1.65;None
+162;M;75;1.56;High School
+163;M;70;1.91;High School
+164;F;37;1.97;Elementary
+165;F;22;1.94;Elementary
+166;F;67;1.52;Bachelor's
+167;M;62;1.53;High School
+168;M;71;1.83;High School
+169;M;41;1.82;None
+170;M;71;1.8;High School
+171;F;34;1.91;None
+172;F;58;1.81;Master's
+173;M;64;1.68;High School
+174;M;44;1.57;PhD
+175;M;25;2;None
+176;M;36;1.92;Bachelor's
+177;F;69;1.6;PhD
+178;F;50;1.69;High School
+179;F;71;1.74;Elementary
+180;F;69;1.61;Bachelor's
+181;M;61;1.59;PhD
+182;M;70;1.66;Master's
+183;M;37;1.9;High School
+184;M;35;2.01;PhD
+185;M;59;1.69;Elementary
+186;F;64;1.62;PhD
+187;M;68;1.6;High School
+188;M;36;1.66;Bachelor's
+189;F;44;1.72;High School
+190;F;74;1.56;None
+191;F;47;1.94;None
+192;M;25;1.52;Bachelor's
+193;M;56;1.69;High School
+194;M;67;1.56;Elementary
+195;M;42;1.63;None
+196;F;40;1.6;Elementary
+197;M;30;1.6;Bachelor's
+198;F;49;1.48;Elementary
+199;F;30;1.58;None
+200;M;43;1.74;High School
+201;F;54;1.82;PhD
+202;M;53;1.73;PhD
+203;M;43;1.59;Elementary
+204;F;45;2;None
+205;F;64;1.9;Master's
+206;M;62;1.75;PhD
+207;M;60;1.66;Master's
+208;F;61;1.99;High School
+209;M;39;1.51;Elementary
+210;F;30;1.58;Master's
+211;M;60;1.82;PhD
+212;F;63;1.87;High School
+213;M;54;1.63;PhD
+214;F;44;2;High School
+215;F;44;1.76;Bachelor's
+216;M;29;1.94;High School
+217;F;39;1.84;Master's
+218;F;56;1.75;None
+219;F;30;1.55;Elementary
+220;M;70;1.47;None
+221;M;36;1.95;Master's
+222;F;33;1.57;None
+223;M;46;1.92;Bachelor's
+224;M;24;1.91;Elementary
+225;F;26;1.61;Elementary
+226;F;54;1.8;Master's
+227;M;56;1.71;Bachelor's
+228;F;55;1.5;Bachelor's
+229;M;52;1.67;Elementary
+230;M;34;1.91;Master's
+231;F;24;1.7;PhD
+232;M;41;1.51;Master's
+233;M;66;1.56;Bachelor's
+234;M;48;1.5;None
+235;F;65;1.78;Bachelor's
+236;F;48;1.8;PhD
+237;F;56;1.72;Bachelor's
+238;M;48;1.77;None
+239;F;68;1.7;Master's
+240;M;66;1.92;Bachelor's
+241;M;69;1.75;Bachelor's
+242;F;30;1.49;None
+243;F;61;1.73;Bachelor's
+244;F;38;1.54;PhD
+245;F;55;1.82;Bachelor's
+246;F;76;1.98;Bachelor's
+247;F;41;1.55;High School
+248;F;41;1.64;Elementary
+249;F;37;1.59;None
+250;F;48;1.74;PhD
+251;M;19;1.75;Bachelor's
+252;F;41;1.7;Bachelor's
+253;F;26;1.71;None
+254;M;28;1.93;Master's
+255;M;31;1.99;Elementary
+256;M;25;1.85;Master's
+257;F;20;1.46;None
+258;M;42;1.57;Elementary
+259;F;27;1.57;Master's
+260;F;53;2;None
+261;M;20;1.99;Elementary
+262;F;70;2;Bachelor's
+263;F;63;1.64;Elementary
+264;F;71;2.01;Elementary
+265;M;23;1.64;None
+266;M;24;1.79;PhD
+267;M;53;1.5;Elementary
+268;M;24;1.99;Elementary
+269;M;45;1.74;None
+270;F;49;1.76;Elementary
+271;M;43;1.86;High School
+272;M;64;1.88;Elementary
+273;F;51;1.96;None
+274;F;63;1.59;Bachelor's
+275;M;52;1.63;Bachelor's
+276;M;59;1.8;Elementary
+277;F;25;1.68;High School
+278;F;44;1.47;Elementary
+279;F;65;1.92;Elementary
+280;F;41;1.67;None
+281;F;29;1.96;None
+282;F;63;1.77;Elementary
+283;F;46;1.94;PhD
+284;M;31;1.96;Elementary
+285;M;64;1.63;Bachelor's
+286;M;55;1.51;PhD
+287;M;50;1.48;PhD
+288;M;19;1.83;Elementary
+289;M;76;1.64;Master's
+290;M;33;1.53;None
+291;F;21;1.61;Bachelor's
+292;M;46;1.81;Bachelor's
+293;M;33;1.79;Master's
+294;F;20;1.57;None
+295;F;74;1.65;PhD
+296;M;69;1.78;None
+297;F;75;1.54;PhD
+298;M;69;1.55;Master's
+299;M;44;1.53;High School
+300;F;24;1.6;None
+301;F;59;1.67;Master's
+302;M;31;1.54;Bachelor's
+303;F;48;1.66;PhD
+304;F;48;1.51;None
+305;M;42;1.48;None
+306;M;43;1.65;Bachelor's
+307;M;61;1.64;High School
+308;M;76;1.78;Bachelor's
+309;M;28;1.61;High School
+310;F;29;1.77;None
+311;F;28;2;Elementary
+312;F;50;1.71;PhD
+313;F;48;1.8;High School
+314;M;60;1.96;PhD
+315;F;71;1.7;None
+316;F;33;1.8;None
+317;F;43;1.83;Bachelor's
+318;M;65;1.82;Master's
+319;M;75;1.82;Bachelor's
+320;F;46;1.5;Elementary
+321;F;54;1.72;Master's
+322;M;74;1.48;Bachelor's
+323;F;55;1.57;Master's
+324;F;57;1.85;None
+325;F;53;1.85;Elementary
+326;M;52;1.47;Master's
+327;F;21;1.88;Elementary
+328;M;38;2.01;None
+329;F;47;1.79;None
+330;M;35;1.49;PhD
+331;M;51;1.77;High School
+332;M;71;1.65;Elementary
+333;M;66;1.95;None
+334;F;44;1.62;PhD
+335;M;47;1.97;Master's
+336;F;42;1.64;PhD
+337;F;64;1.85;Elementary
+338;F;31;1.5;Elementary
+339;M;58;1.8;Bachelor's
+340;M;41;1.77;Master's
+341;F;53;1.89;PhD
+342;F;21;1.79;Elementary
+343;F;47;1.74;High School
+344;M;48;1.89;High School
+345;M;19;1.62;High School
+346;F;74;1.63;High School
+347;M;50;1.51;Elementary
+348;F;53;1.57;None
+349;M;40;1.58;Master's
+350;F;59;1.6;None
+351;F;26;1.54;Elementary
+352;F;59;1.94;High School
+353;F;73;1.55;High School
+354;F;33;1.91;None
+355;F;40;1.71;None
+356;M;41;1.6;Elementary
+357;M;49;1.92;PhD
+358;F;45;1.82;PhD
+359;F;44;2.01;None
+360;M;25;1.66;Elementary
+361;F;31;1.76;Elementary
+362;M;25;1.66;PhD
+363;M;49;1.55;PhD
+364;F;72;1.88;Elementary
+365;F;38;1.84;None
+366;M;18;1.54;PhD
+367;F;65;1.78;PhD
+368;M;54;2.01;Master's
+369;M;31;1.55;Bachelor's
+370;F;48;1.99;Elementary
+371;F;31;1.54;Master's
+372;F;36;1.65;None
+373;M;34;1.77;Elementary
+374;F;45;1.58;High School
+375;F;65;1.97;Bachelor's
+376;M;52;1.68;Bachelor's
+377;F;53;1.57;Master's
+378;M;53;1.72;Bachelor's
+379;M;64;1.64;Master's
+380;M;35;1.78;PhD
+381;M;60;1.52;High School
+382;M;51;1.46;PhD
+383;M;33;1.53;Master's
+384;M;55;1.55;High School
+385;M;32;1.73;Elementary
+386;M;36;1.74;High School
+387;M;51;1.88;Elementary
+388;F;60;1.46;Master's
+389;M;53;1.75;Elementary
+390;M;69;1.78;None
+391;F;20;1.78;Bachelor's
+392;F;53;1.94;High School
+393;M;23;1.47;Bachelor's
+394;M;52;1.96;Master's
+395;F;73;1.57;Bachelor's
+396;F;41;1.63;Bachelor's
+397;M;65;1.94;High School
+398;M;52;2;Elementary
+399;F;76;1.82;PhD
+400;F;43;1.55;PhD
+401;M;37;1.88;Elementary
+402;M;67;1.78;Master's
+403;M;74;1.69;Master's
+404;M;41;1.81;PhD
+405;F;39;1.89;PhD
+406;M;19;1.78;Master's
+407;M;72;1.9;None
+408;F;57;1.95;None
+409;F;36;1.89;PhD
+410;F;42;1.57;None
+411;F;65;1.81;Master's
+412;F;64;1.89;Master's
+413;F;27;1.85;Master's
+414;M;64;1.94;Master's
+415;M;45;1.79;High School
+416;M;21;1.75;Bachelor's
+417;F;66;1.57;PhD
+418;M;59;1.74;Master's
+419;M;58;1.73;PhD
+420;M;47;1.66;Master's
+421;M;28;1.48;PhD
+422;M;54;1.96;None
+423;M;26;1.64;Elementary
+424;F;65;1.85;Elementary
+425;F;33;1.55;None
+426;M;21;1.92;Master's
+427;F;75;1.91;High School
+428;F;41;1.84;High School
+429;F;45;1.61;None
+430;F;48;1.91;Bachelor's
+431;M;52;1.98;None
+432;M;40;1.94;Bachelor's
+433;M;70;1.47;Master's
+434;M;33;1.82;Master's
+435;F;34;1.83;Bachelor's
+436;F;28;1.5;Master's
+437;F;26;1.84;None
+438;F;20;1.57;Elementary
+439;M;57;1.87;PhD
+440;M;68;1.87;Master's
+441;F;26;1.47;Master's
+442;M;45;1.87;High School
+443;F;34;1.7;PhD
+444;F;39;1.55;High School
+445;F;40;1.63;None
+446;F;22;1.57;None
+447;F;75;1.78;Bachelor's
+448;F;64;1.58;Bachelor's
+449;F;55;1.76;High School
+450;M;51;1.93;High School
+451;M;54;1.47;Master's
+452;M;41;1.72;PhD
+453;F;36;1.82;Elementary
+454;M;60;1.46;Master's
+455;F;65;1.99;Elementary
+456;F;62;1.91;High School
+457;M;67;1.69;Master's
+458;M;54;2;Bachelor's
+459;M;48;1.82;Master's
+460;F;55;1.64;Bachelor's
+461;F;65;1.81;High School
+462;F;30;1.98;PhD
+463;M;74;1.58;High School
+464;M;50;1.89;Master's
+465;F;42;1.62;PhD
+466;M;35;1.58;None
+467;F;53;1.61;High School
+468;M;61;1.77;Elementary
+469;F;18;1.83;High School
+470;F;23;1.72;Master's
+471;M;43;1.78;Elementary
+472;F;20;1.54;Elementary
+473;M;64;1.67;High School
+474;F;36;1.81;Bachelor's
+475;M;19;1.62;Master's
+476;M;46;1.66;Bachelor's
+477;F;56;2.01;High School
+478;M;23;1.57;High School
+479;M;52;1.75;PhD
+480;F;68;1.88;High School
+481;M;29;1.54;Elementary
+482;M;28;1.94;Master's
+483;M;76;1.78;Master's
+484;F;18;1.83;None
+485;M;72;1.56;Master's
+486;F;50;1.86;Master's
+487;F;33;1.87;Bachelor's
+488;F;51;1.71;PhD
+489;M;52;1.82;Elementary
+490;F;45;1.46;None
+491;M;29;1.47;Bachelor's
+492;F;59;2;PhD
+493;M;31;1.72;Bachelor's
+494;M;46;1.72;Bachelor's
+495;F;66;1.82;Elementary
+496;F;44;1.56;Elementary
+497;M;23;1.84;High School
+498;F;71;1.89;High School
+499;M;40;1.54;Master's
+500;F;62;1.7;High School
+501;M;24;1.74;Bachelor's
+502;F;57;1.74;Bachelor's
+503;M;50;1.73;Elementary
+504;F;44;1.57;Elementary
+505;F;43;1.67;Elementary
+506;M;24;1.79;Bachelor's
+507;F;24;1.72;None
+508;F;38;1.81;PhD
+509;M;51;1.56;None
+510;M;62;1.68;Master's
+511;M;76;1.51;None
+512;F;74;1.78;PhD
+513;M;38;1.64;Elementary
+514;M;47;1.94;Elementary
+515;M;24;1.61;PhD
+516;M;36;1.72;Elementary
+517;F;38;1.63;None
+518;M;60;1.81;Bachelor's
+519;M;72;1.53;None
+520;F;76;1.57;None
+521;F;49;1.53;Bachelor's
+522;F;47;1.96;Elementary
+523;M;63;1.91;Master's
+524;F;43;1.73;PhD
+525;F;26;1.9;High School
+526;F;44;1.54;PhD
+527;M;46;1.66;High School
+528;M;33;1.71;High School
+529;M;56;1.62;PhD
+530;F;26;1.68;Bachelor's
+531;F;33;1.7;PhD
+532;F;70;1.97;PhD
+533;F;29;1.88;Elementary
+534;M;57;1.63;Elementary
+535;F;50;1.48;Bachelor's
+536;M;23;2.01;Master's
+537;M;44;1.61;Bachelor's
+538;F;33;2;None
+539;F;36;1.74;Elementary
+540;M;58;1.59;None
+541;F;31;1.49;Master's
+542;F;60;1.78;High School
+543;M;74;1.74;PhD
+544;M;45;1.94;Master's
+545;M;44;1.79;None
+546;F;19;1.46;None
+547;M;34;1.78;PhD
+548;F;69;1.67;High School
+549;M;32;1.66;None
+550;M;61;1.76;Master's
+551;M;38;1.95;Master's
+552;M;62;1.64;Elementary
+553;M;34;1.59;High School
+554;M;27;1.76;High School
+555;F;21;1.69;Elementary
+556;M;46;1.83;Master's
+557;M;55;1.9;Bachelor's
+558;M;38;1.47;High School
+559;F;61;1.88;None
+560;F;23;1.58;None
+561;F;44;1.68;PhD
+562;M;63;1.57;None
+563;F;71;1.84;Master's
+564;F;56;1.65;Bachelor's
+565;M;31;1.82;High School
+566;M;61;1.54;Bachelor's
+567;F;37;1.76;PhD
+568;M;60;1.69;Bachelor's
+569;M;45;1.52;High School
+570;M;67;1.56;None
+571;M;70;1.92;PhD
+572;M;46;1.58;None
+573;M;57;1.93;Elementary
+574;F;74;1.9;Bachelor's
+575;F;53;1.71;Bachelor's
+576;F;68;1.86;Master's
+577;M;42;1.81;Master's
+578;M;39;1.73;PhD
+579;M;39;1.84;PhD
+580;F;45;1.85;None
+581;M;43;1.67;PhD
+582;F;65;1.76;Elementary
+583;M;73;1.46;High School
+584;F;52;1.55;None
+585;M;70;1.95;Elementary
+586;F;71;1.84;Elementary
+587;M;43;1.81;High School
+588;F;73;1.76;Bachelor's
+589;M;43;1.73;Elementary
+590;M;49;2;PhD
+591;M;54;1.82;Master's
+592;M;61;1.92;None
+593;M;32;1.46;PhD
+594;M;68;1.91;Master's
+595;F;47;1.91;None
+596;M;47;1.72;Master's
+597;F;33;1.85;None
+598;M;36;1.84;Master's
+599;F;28;1.78;Master's
+600;F;48;1.81;Elementary
+601;M;71;1.86;Bachelor's
+602;F;30;1.62;Bachelor's
+603;M;51;2.01;Bachelor's
+604;M;44;1.76;Elementary
+605;M;33;1.69;None
+606;M;23;1.65;Master's
+607;F;67;1.64;None
+608;F;54;1.8;High School
+609;F;20;1.54;Master's
+610;F;25;1.89;Master's
+611;F;72;1.63;PhD
+612;F;61;1.8;None
+613;M;67;1.69;Master's
+614;M;71;1.81;Master's
+615;M;39;2;Elementary
+616;M;48;1.48;PhD
+617;F;38;1.69;PhD
+618;M;70;1.9;Elementary
+619;F;56;1.96;Bachelor's
+620;M;35;1.52;Bachelor's
+621;M;40;1.52;Master's
+622;M;33;1.69;Master's
+623;M;19;1.7;PhD
+624;M;29;1.6;Bachelor's
+625;F;75;1.97;Master's
+626;M;35;1.96;Master's
+627;F;48;1.7;None
+628;M;39;1.72;None
+629;M;45;1.78;Master's
+630;F;35;1.8;None
+631;M;47;1.78;PhD
+632;F;40;1.82;PhD
+633;M;56;2;Bachelor's
+634;F;36;1.95;PhD
+635;F;18;1.79;Elementary
+636;F;51;1.52;Elementary
+637;F;29;1.81;Master's
+638;M;33;1.77;Bachelor's
+639;F;71;1.63;PhD
+640;M;61;1.89;None
+641;M;26;1.97;None
+642;M;51;1.88;Master's
+643;M;58;1.95;PhD
+644;M;30;1.57;Bachelor's
+645;F;29;1.82;Bachelor's
+646;M;49;1.5;None
+647;M;38;1.73;Master's
+648;F;26;1.48;High School
+649;M;68;1.78;Elementary
+650;F;44;1.67;High School
+651;F;21;1.84;None
+652;M;63;1.58;PhD
+653;M;70;1.83;Elementary
+654;F;48;1.88;None
+655;F;44;2;None
+656;M;64;1.62;None
+657;F;31;1.48;Master's
+658;M;59;1.51;PhD
+659;M;71;1.94;Master's
+660;M;60;1.56;High School
+661;M;60;1.79;Bachelor's
+662;M;51;1.85;Elementary
+663;F;49;1.56;Bachelor's
+664;M;25;1.66;High School
+665;M;25;1.61;PhD
+666;F;33;1.69;High School
+667;M;66;1.88;High School
+668;M;33;1.6;None
+669;F;53;1.95;Elementary
+670;M;55;1.48;Bachelor's
+671;F;38;1.79;None
+672;M;70;1.72;Elementary
+673;F;53;1.85;Master's
+674;F;56;1.64;Elementary
+675;M;65;1.87;Elementary
+676;F;19;1.57;High School
+677;F;26;1.81;Bachelor's
+678;F;28;1.7;Elementary
+679;M;36;1.78;Master's
+680;F;48;1.5;None
+681;F;39;1.75;Master's
+682;F;25;1.89;None
+683;F;31;1.91;Bachelor's
+684;F;41;1.6;Elementary
+685;M;29;1.78;PhD
+686;M;24;1.84;Bachelor's
+687;M;57;1.56;Master's
+688;F;65;1.78;High School
+689;F;34;1.6;Bachelor's
+690;F;59;1.58;PhD
+691;F;36;1.64;Master's
+692;F;75;1.65;Master's
+693;F;71;1.81;PhD
+694;F;39;1.83;Master's
+695;M;49;1.68;Bachelor's
+696;F;68;1.78;Bachelor's
+697;M;76;1.48;None
+698;F;61;1.92;Bachelor's
+699;M;19;1.54;PhD
+700;F;74;1.6;None
+701;M;47;1.54;Elementary
+702;M;68;1.87;Master's
+703;F;47;1.76;Bachelor's
+704;M;37;1.66;Elementary
+705;F;75;1.93;Elementary
+706;M;19;1.62;Master's
+707;F;62;1.6;None
+708;F;35;1.64;High School
+709;M;53;1.99;Master's
+710;F;49;1.54;None
+711;F;19;1.87;Master's
+712;F;50;1.64;None
+713;F;18;1.92;None
+714;M;21;1.64;Master's
+715;M;64;1.85;Master's
+716;M;59;1.52;PhD
+717;M;39;1.99;Bachelor's
+718;M;74;1.65;Elementary
+719;F;75;1.65;PhD
+720;M;23;1.97;Master's
+721;F;43;1.47;Master's
+722;M;30;1.6;Bachelor's
+723;F;41;1.83;High School
+724;F;55;1.55;None
+725;F;58;1.84;Elementary
+726;F;72;1.75;Master's
+727;M;50;1.75;None
+728;F;54;1.85;PhD
+729;F;56;1.46;Bachelor's
+730;F;62;1.9;Bachelor's
+731;M;51;1.49;Elementary
+732;M;64;1.47;PhD
+733;M;22;1.62;Elementary
+734;F;46;1.94;Bachelor's
+735;F;55;1.84;None
+736;F;41;1.94;Bachelor's
+737;F;70;1.59;High School
+738;F;64;1.55;Elementary
+739;F;65;1.56;Elementary
+740;M;66;1.56;None
+741;M;26;1.72;Master's
+742;F;67;1.88;None
+743;F;54;1.64;Bachelor's
+744;F;61;1.92;PhD
+745;F;64;1.52;PhD
+746;F;53;1.98;Elementary
+747;M;54;1.67;None
+748;F;58;1.55;Bachelor's
+749;F;53;1.64;None
+750;F;27;1.55;Bachelor's
+751;M;53;1.64;Master's
+752;F;50;1.61;None
+753;F;56;1.89;Master's
+754;M;28;1.98;Master's
+755;M;22;1.86;None
+756;F;38;1.93;Bachelor's
+757;F;45;1.58;Elementary
+758;F;53;1.53;Elementary
+759;F;62;1.51;High School
+760;F;39;1.57;PhD
+761;F;50;1.49;PhD
+762;F;43;1.61;Elementary
+763;M;19;1.77;Bachelor's
+764;F;28;1.91;Master's
+765;M;68;1.84;Elementary
+766;M;21;1.71;None
+767;F;64;1.49;None
+768;M;71;2.01;Bachelor's
+769;F;45;1.47;PhD
+770;M;58;1.78;Elementary
+771;M;25;1.89;None
+772;M;25;1.97;High School
+773;M;40;1.52;PhD
+774;M;59;1.91;None
+775;M;42;2;Master's
+776;F;33;1.59;Bachelor's
+777;F;53;1.98;Master's
+778;F;26;1.98;Bachelor's
+779;F;31;1.55;High School
+780;F;26;1.51;PhD
+781;F;23;1.65;Bachelor's
+782;M;18;1.95;PhD
+783;M;26;1.69;Master's
+784;F;52;2;High School
+785;F;29;1.74;None
+786;F;64;1.55;High School
+787;M;49;1.73;Elementary
+788;F;31;1.77;Elementary
+789;F;53;1.92;None
+790;F;74;1.49;Elementary
+791;M;21;1.91;PhD
+792;M;46;1.47;Elementary
+793;F;51;1.52;Elementary
+794;F;51;1.9;Bachelor's
+795;M;59;1.64;PhD
+796;F;37;2;PhD
+797;M;73;1.46;None
+798;M;18;1.56;Elementary
+799;F;26;1.59;Master's
+800;M;57;1.94;Bachelor's
+801;M;56;1.86;Master's
+802;F;40;1.64;High School
+803;M;64;1.5;None
+804;M;72;2;PhD
+805;M;48;1.87;PhD
+806;M;52;1.74;Bachelor's
+807;F;50;1.59;None
+808;F;46;1.91;Bachelor's
+809;M;33;1.66;PhD
+810;M;67;1.54;Master's
+811;F;29;1.5;Elementary
+812;F;60;1.97;Bachelor's
+813;M;35;1.47;None
+814;M;37;1.5;Bachelor's
+815;F;39;1.74;Master's
+816;M;50;1.85;High School
+817;F;49;1.48;PhD
+818;M;33;1.56;PhD
+819;M;66;1.6;High School
+820;F;49;1.99;Bachelor's
+821;M;56;1.8;Elementary
+822;M;42;2;Master's
+823;M;35;1.66;Elementary
+824;F;58;1.87;Elementary
+825;M;56;1.82;None
+826;F;20;1.92;Master's
+827;M;68;1.62;High School
+828;F;36;1.99;None
+829;F;30;1.94;High School
+830;F;57;1.59;Bachelor's
+831;M;33;1.82;Master's
+832;F;57;1.59;PhD
+833;M;76;1.67;PhD
+834;M;43;1.57;None
+835;M;75;1.48;Master's
+836;F;46;1.92;Master's
+837;M;34;1.6;Elementary
+838;M;72;1.57;Elementary
+839;F;68;1.83;Master's
+840;M;28;1.69;Bachelor's
+841;F;29;1.78;Elementary
+842;F;39;1.9;Bachelor's
+843;M;43;1.46;Bachelor's
+844;M;72;1.96;None
+845;M;73;1.96;Bachelor's
+846;F;37;1.94;High School
+847;F;74;1.66;Bachelor's
+848;F;66;1.7;None
+849;F;25;1.81;None
+850;M;66;1.87;Bachelor's
+851;M;23;1.96;None
+852;M;40;2.01;High School
+853;F;46;1.88;Elementary
+854;F;68;1.73;Master's
+855;M;64;1.78;Bachelor's
+856;F;42;1.9;None
+857;F;24;1.86;High School
+858;M;55;1.74;None
+859;M;40;1.62;PhD
+860;F;24;1.74;Master's
+861;M;23;1.87;PhD
+862;F;60;1.62;PhD
+863;M;51;1.9;High School
+864;F;36;1.94;High School
+865;F;24;1.69;None
+866;M;46;1.46;Elementary
+867;F;76;1.75;PhD
+868;F;39;1.58;PhD
+869;F;29;1.47;Bachelor's
+870;F;69;1.55;Bachelor's
+871;M;58;1.82;None
+872;F;67;1.79;None
+873;F;26;1.76;Bachelor's
+874;F;53;1.56;None
+875;F;56;1.84;PhD
+876;M;73;1.77;None
+877;M;34;1.53;Master's
+878;M;33;1.94;High School
+879;M;35;1.55;High School
+880;F;76;1.98;None
+881;M;20;1.7;High School
+882;F;31;1.9;PhD
+883;M;36;1.5;None
+884;F;20;1.92;High School
+885;M;38;1.91;Bachelor's
+886;F;32;1.47;PhD
+887;F;66;2.01;Bachelor's
+888;F;55;1.78;PhD
+889;F;41;1.72;PhD
+890;F;56;1.91;None
+891;F;21;1.51;Bachelor's
+892;F;48;1.78;None
+893;M;45;1.82;High School
+894;F;65;1.96;High School
+895;M;48;1.63;High School
+896;M;74;1.82;Elementary
+897;M;42;1.98;PhD
+898;F;67;1.9;Master's
+899;F;55;1.84;High School
+900;M;76;1.46;Master's
+901;F;33;1.49;High School
+902;M;27;1.62;Elementary
+903;F;66;1.53;Bachelor's
+904;F;76;1.92;None
+905;F;25;1.47;None
+906;F;53;1.69;Master's
+907;F;75;1.76;None
+908;F;58;1.5;Master's
+909;F;38;1.56;Bachelor's
+910;M;33;1.81;None
+911;F;65;1.56;Master's
+912;M;23;1.56;Bachelor's
+913;F;21;1.51;Elementary
+914;F;28;1.76;Elementary
+915;F;67;1.75;High School
+916;F;64;1.55;None
+917;M;71;1.99;Elementary
+918;F;44;1.66;High School
+919;M;20;2;None
+920;M;18;1.95;Bachelor's
+921;M;76;2;Bachelor's
+922;M;68;1.55;Master's
+923;M;35;1.61;PhD
+924;M;36;1.93;None
+925;F;21;1.74;None
+926;F;19;1.95;None
+927;M;56;1.62;Master's
+928;F;37;1.61;Master's
+929;M;67;1.99;None
+930;M;26;1.5;High School
+931;M;19;1.71;Bachelor's
+932;M;36;1.62;PhD
+933;F;42;1.83;High School
+934;M;57;2;Master's
+935;M;30;1.97;High School
+936;M;51;1.55;PhD
+937;M;49;1.5;Elementary
+938;M;58;1.93;PhD
+939;M;47;1.48;PhD
+940;F;76;1.92;Bachelor's
+941;F;42;1.57;Elementary
+942;F;72;1.72;PhD
+943;M;39;1.48;Master's
+944;M;57;1.83;High School
+945;M;60;1.64;PhD
+946;F;58;1.95;Bachelor's
+947;F;60;1.65;Elementary
+948;F;55;1.8;Bachelor's
+949;M;28;1.78;Elementary
+950;M;30;1.69;Elementary
+951;F;37;1.59;High School
+952;F;28;1.94;High School
+953;M;25;1.58;Elementary
+954;M;71;1.5;PhD
+955;M;73;1.7;Bachelor's
+956;F;67;1.59;Bachelor's
+957;M;39;1.7;High School
+958;F;66;1.71;Elementary
+959;M;42;1.53;PhD
+960;F;62;1.97;PhD
+961;M;63;2;Bachelor's
+962;F;53;1.98;High School
+963;M;66;1.63;Elementary
+964;M;26;1.67;Master's
+965;F;57;1.6;PhD
+966;F;29;1.47;Elementary
+967;F;72;1.46;Elementary
+968;F;33;1.87;PhD
+969;M;59;1.56;High School
+970;M;64;1.75;Elementary
+971;F;42;1.77;Elementary
+972;M;31;1.73;Bachelor's
+973;F;51;1.87;High School
+974;M;74;1.87;None
+975;M;52;1.62;Bachelor's
+976;F;63;1.85;High School
+977;M;35;1.96;Bachelor's
+978;M;44;1.65;Elementary
+979;M;64;1.85;PhD
+980;M;46;1.49;PhD
+981;M;49;1.6;None
+982;F;27;1.82;Elementary
+983;M;31;1.75;Elementary
+984;F;51;1.71;Elementary
+985;M;73;1.92;PhD
+986;M;36;1.71;None
+987;F;19;1.54;High School
+988;M;32;1.62;High School
+989;F;50;1.73;High School
+990;F;23;1.47;Elementary
+991;M;56;1.92;Master's
+992;F;33;1.63;High School
+993;M;44;1.76;None
+994;M;40;1.9;High School
+995;F;42;1.73;High School
+996;F;73;1.58;High School
+997;M;44;1.9;None
+998;F;48;1.79;PhD
+999;F;37;1.81;Elementary
+1000;M;26;1.93;PhD
+1001;F;73;1.61;PhD
+1002;M;36;1.9;High School
+1003;M;71;1.88;Bachelor's
+1004;M;57;1.9;PhD
+1005;M;73;1.82;PhD
+1006;F;57;1.75;None
+1007;M;51;1.61;Bachelor's
+1008;F;61;2.01;Master's
+1009;M;65;1.97;Elementary
+1010;F;66;1.79;High School
+1011;F;19;1.57;High School
+1012;F;68;1.65;High School
+1013;M;68;1.5;Master's
+1014;F;54;2;PhD
+1015;M;62;1.77;Elementary
+1016;F;53;1.91;PhD
+1017;F;51;1.75;Elementary
+1018;M;60;1.76;PhD
+1019;F;30;1.94;Elementary
+1020;F;43;1.91;PhD
+1021;F;71;1.81;High School
+1022;F;55;1.65;Master's
+1023;M;31;1.67;PhD
+1024;M;56;1.77;Bachelor's
+1025;F;51;1.95;Bachelor's
+1026;F;66;1.48;PhD
+1027;M;26;1.6;High School
+1028;F;58;1.68;Master's
+1029;M;39;1.94;Elementary
+1030;F;28;1.89;None
+1031;M;56;1.75;PhD
+1032;M;48;1.64;None
+1033;F;69;1.52;Bachelor's
+1034;F;63;1.47;None
+1035;F;19;1.53;High School
+1036;M;71;1.91;PhD
+1037;F;57;1.69;Bachelor's
+1038;M;58;1.84;PhD
+1039;F;73;1.54;Master's
+1040;M;44;1.88;None
+1041;F;38;1.79;Bachelor's
+1042;M;56;1.97;Master's
+1043;M;25;1.49;PhD
+1044;F;33;1.96;Master's
+1045;F;21;1.95;Bachelor's
+1046;M;26;1.94;High School
+1047;F;30;1.47;None
+1048;F;46;1.5;Bachelor's
+1049;F;47;1.55;Bachelor's
+1050;M;38;1.49;PhD
+1051;M;45;1.61;Master's
+1052;F;38;1.73;Master's
+1053;M;26;1.64;PhD
+1054;M;64;1.86;Master's
+1055;M;67;1.85;PhD
+1056;M;54;1.54;Master's
+1057;M;73;1.86;Bachelor's
+1058;F;71;1.74;High School
+1059;M;69;1.97;High School
+1060;F;40;1.8;Bachelor's
+1061;F;28;1.9;None
+1062;F;54;1.48;Master's
+1063;M;41;1.48;None
+1064;F;37;1.51;None
+1065;F;39;1.62;High School
+1066;F;58;1.74;High School
+1067;F;30;1.57;Elementary
+1068;M;36;1.84;Master's
+1069;F;70;2.01;None
+1070;M;74;1.65;None
+1071;M;25;1.59;Bachelor's
+1072;F;70;1.8;Bachelor's
+1073;F;57;1.77;Master's
+1074;M;68;1.88;PhD
+1075;F;45;1.62;PhD
+1076;M;51;1.69;Elementary
+1077;M;47;1.46;High School
+1078;F;60;1.61;PhD
+1079;F;54;1.6;PhD
+1080;F;54;1.58;None
+1081;M;60;1.77;Bachelor's
+1082;F;36;1.87;High School
+1083;M;71;1.61;PhD
+1084;M;18;1.9;PhD
+1085;F;52;1.62;None
+1086;M;39;1.87;Elementary
+1087;M;37;1.58;Master's
+1088;F;32;1.78;None
+1089;M;42;1.69;High School
+1090;F;49;1.73;Bachelor's
+1091;M;24;1.83;High School
+1092;M;19;1.82;Elementary
+1093;F;25;1.63;High School
+1094;F;62;1.5;None
+1095;F;75;1.76;Elementary
+1096;M;43;1.51;PhD
+1097;M;55;1.46;Master's
+1098;M;32;1.61;PhD
+1099;F;74;1.6;PhD
+1100;M;66;1.7;None
+1101;M;71;1.83;Master's
+1102;M;48;1.77;None
+1103;M;40;1.68;Bachelor's
+1104;F;50;1.64;High School
+1105;M;58;1.91;High School
+1106;F;26;1.53;Bachelor's
+1107;M;39;1.83;Elementary
+1108;F;35;1.99;None
+1109;F;67;1.54;High School
+1110;M;18;1.77;PhD
+1111;F;28;1.69;PhD
+1112;M;64;1.84;Bachelor's
+1113;F;25;1.57;Elementary
+1114;M;26;1.98;Bachelor's
+1115;F;27;1.57;Master's
+1116;F;72;1.64;High School
+1117;F;67;1.69;High School
+1118;M;50;1.97;Elementary
+1119;F;40;1.58;High School
+1120;F;28;1.67;Master's
+1121;F;27;1.47;PhD
+1122;F;52;1.84;Elementary
+1123;M;36;1.53;Bachelor's
+1124;F;41;1.98;Elementary
+1125;F;55;1.81;PhD
+1126;M;51;1.64;Bachelor's
+1127;F;61;1.67;Bachelor's
+1128;M;42;1.85;Elementary
+1129;M;29;1.86;None
+1130;M;33;1.76;Bachelor's
+1131;F;55;1.73;Elementary
+1132;F;71;1.87;Master's
+1133;F;30;1.57;Bachelor's
+1134;F;61;1.99;High School
+1135;F;74;1.52;None
+1136;M;44;1.88;Master's
+1137;M;54;1.8;Bachelor's
+1138;M;45;1.51;None
+1139;F;54;1.99;None
+1140;M;71;1.83;Bachelor's
+1141;M;64;1.48;Master's
+1142;F;66;1.97;Master's
+1143;M;66;2.01;PhD
+1144;M;30;1.8;None
+1145;F;35;1.48;Master's
+1146;F;56;1.56;Elementary
+1147;M;57;2;None
+1148;F;63;1.89;Bachelor's
+1149;F;36;1.66;Bachelor's
+1150;F;32;1.7;Bachelor's
+1151;F;25;1.74;High School
+1152;M;44;1.95;PhD
+1153;F;64;1.54;None
+1154;M;38;1.83;Elementary
+1155;F;34;1.84;High School
+1156;M;72;1.63;Elementary
+1157;M;27;1.5;PhD
+1158;M;52;1.72;None
+1159;F;71;1.55;High School
+1160;F;32;1.78;High School
+1161;F;45;1.85;Elementary
+1162;M;54;1.84;None
+1163;F;33;1.83;Elementary
+1164;F;71;1.87;Master's
+1165;M;58;1.8;PhD
+1166;M;24;1.64;None
+1167;M;18;1.68;Bachelor's
+1168;M;26;1.57;None
+1169;F;56;1.76;Master's
+1170;F;69;1.7;High School
+1171;F;64;1.67;Master's
+1172;F;55;2;Master's
+1173;M;51;1.8;High School
+1174;M;32;1.8;PhD
+1175;F;44;1.5;None
+1176;M;33;1.48;Bachelor's
+1177;M;58;1.97;Master's
+1178;F;63;1.96;Bachelor's
+1179;M;27;1.99;High School
+1180;M;23;1.87;PhD
+1181;M;35;1.9;Elementary
+1182;M;54;1.98;Bachelor's
+1183;F;24;1.78;Master's
+1184;F;43;1.49;Elementary
+1185;F;65;1.52;None
+1186;M;42;1.88;High School
+1187;M;35;1.9;Master's
+1188;M;50;1.51;Elementary
+1189;M;23;1.86;High School
+1190;F;65;1.87;None
+1191;F;66;1.54;High School
+1192;M;42;1.8;PhD
+1193;M;31;1.47;Master's
+1194;M;59;2;PhD
+1195;M;51;1.9;PhD
+1196;F;59;1.84;Master's
+1197;F;32;1.98;PhD
+1198;F;72;1.9;Bachelor's
+1199;M;71;1.56;Elementary
+1200;F;23;1.82;Elementary
+1201;M;62;1.72;Elementary
+1202;M;27;1.79;Bachelor's
+1203;F;21;1.54;Master's
+1204;F;73;1.69;None
+1205;F;66;1.68;High School
+1206;F;27;1.54;None
+1207;F;64;1.56;None
+1208;F;47;1.57;Master's
+1209;M;24;1.51;Master's
+1210;M;76;2;Elementary
+1211;F;32;1.64;None
+1212;M;72;1.89;Bachelor's
+1213;F;76;1.78;High School
+1214;F;20;1.81;None
+1215;M;66;1.65;None
+1216;F;65;1.74;None
+1217;M;25;1.64;None
+1218;M;75;1.87;Bachelor's
+1219;F;38;1.55;None
+1220;F;40;1.53;PhD
+1221;F;32;1.68;Bachelor's
+1222;M;56;1.75;High School
+1223;M;66;1.87;PhD
+1224;M;59;1.51;Master's
+1225;M;68;1.97;High School
+1226;F;60;1.49;Bachelor's
+1227;M;75;1.71;High School
+1228;F;38;1.88;PhD
+1229;M;58;1.94;Master's
+1230;M;29;1.89;Elementary
+1231;F;61;1.8;Elementary
+1232;M;37;1.6;None
+1233;M;29;1.64;High School
+1234;M;66;1.48;Bachelor's
+1235;F;47;1.54;Bachelor's
+1236;F;25;1.59;Master's
+1237;F;38;2;None
+1238;M;50;1.48;High School
+1239;M;19;1.7;Elementary
+1240;F;31;1.67;Master's
+1241;F;40;1.86;Elementary
+1242;M;54;1.59;PhD
+1243;F;29;1.55;None
+1244;M;65;1.91;Elementary
+1245;F;69;1.9;High School
+1246;M;39;1.68;Bachelor's
+1247;F;21;1.78;PhD
+1248;F;22;1.58;None
+1249;F;51;1.78;Elementary
+1250;F;41;1.99;Master's
+1251;M;52;1.54;PhD
+1252;F;52;1.69;Master's
+1253;M;41;1.59;Master's
+1254;F;34;1.52;Master's
+1255;M;52;1.77;PhD
+1256;F;55;1.66;Elementary
+1257;M;44;1.47;Elementary
+1258;F;63;1.57;Master's
+1259;F;68;1.64;PhD
+1260;F;70;1.48;PhD
+1261;M;35;1.46;Bachelor's
+1262;F;48;1.84;PhD
+1263;F;29;1.84;High School
+1264;M;71;1.93;None
+1265;F;57;1.82;High School
+1266;M;32;1.81;PhD
+1267;M;71;1.72;Master's
+1268;F;55;1.95;High School
+1269;F;54;1.69;Bachelor's
+1270;M;50;1.73;PhD
+1271;F;51;1.54;PhD
+1272;M;76;1.48;Bachelor's
+1273;M;45;1.75;None
+1274;F;55;1.48;None
+1275;F;70;1.68;Elementary
+1276;M;34;1.85;PhD
+1277;F;51;1.79;Bachelor's
+1278;M;53;2.01;None
+1279;M;20;1.74;None
+1280;M;30;1.56;High School
+1281;F;63;1.94;None
+1282;M;26;1.48;High School
+1283;M;76;1.69;High School
+1284;F;23;1.89;High School
+1285;F;71;1.86;High School
+1286;F;36;1.58;Elementary
+1287;F;49;1.46;Elementary
+1288;M;56;1.92;Master's
+1289;F;40;1.61;None
+1290;F;41;1.91;Elementary
+1291;M;18;1.75;Master's
+1292;F;37;1.93;None
+1293;M;38;1.72;None
+1294;M;37;1.72;Elementary
+1295;F;18;1.56;High School
+1296;F;43;1.74;Master's
+1297;M;61;1.64;High School
+1298;F;46;1.83;High School
+1299;M;73;2.01;Elementary
+1300;M;64;1.73;Elementary
+1301;M;34;1.52;PhD
+1302;F;57;1.66;None
+1303;M;45;1.75;None
+1304;F;32;1.62;PhD
+1305;M;24;1.57;Elementary
+1306;M;26;1.98;Master's
+1307;M;51;1.54;Master's
+1308;M;60;1.94;High School
+1309;M;36;1.7;PhD
+1310;M;65;1.6;PhD
+1311;M;67;1.89;High School
+1312;M;48;1.84;Master's
+1313;M;27;1.57;Elementary
+1314;M;36;1.97;Elementary
+1315;F;24;1.57;PhD
+1316;F;22;1.99;Master's
+1317;M;33;1.53;Bachelor's
+1318;F;63;1.52;Bachelor's
+1319;F;74;1.78;Bachelor's
+1320;M;68;1.6;Elementary
+1321;M;42;1.73;PhD
+1322;F;58;1.88;Master's
+1323;F;58;1.53;None
+1324;M;42;1.99;Elementary
+1325;F;37;1.54;Master's
+1326;M;60;1.7;PhD
+1327;F;71;1.48;High School
+1328;F;38;1.79;Master's
+1329;M;54;1.89;Master's
+1330;F;19;1.58;Elementary
+1331;M;56;1.52;Elementary
+1332;F;26;1.71;Elementary
+1333;M;36;1.47;Elementary
+1334;M;21;1.66;Master's
+1335;F;55;1.93;PhD
+1336;M;30;1.58;Bachelor's
+1337;M;20;1.65;High School
+1338;F;28;1.51;PhD
+1339;F;48;1.84;Elementary
+1340;F;65;1.72;Master's
+1341;M;51;1.91;Elementary
+1342;M;67;1.65;Master's
+1343;M;27;1.63;Master's
+1344;M;32;1.74;None
+1345;F;36;1.54;Master's
+1346;M;34;1.65;Master's
+1347;M;30;2;Elementary
+1348;M;39;1.97;Elementary
+1349;F;24;1.97;Bachelor's
+1350;M;68;1.86;Master's
+1351;F;61;1.67;None
+1352;F;33;1.97;PhD
+1353;F;63;1.71;High School
+1354;F;34;1.51;None
+1355;F;28;1.8;Bachelor's
+1356;M;33;1.97;Bachelor's
+1357;M;50;1.5;PhD
+1358;F;59;1.69;Elementary
+1359;F;57;1.67;Bachelor's
+1360;M;33;1.53;Master's
+1361;F;68;1.92;High School
+1362;F;43;1.61;None
+1363;F;62;1.58;Bachelor's
+1364;F;42;1.49;Bachelor's
+1365;M;30;1.95;High School
+1366;F;47;1.58;None
+1367;F;26;1.84;Elementary
+1368;M;31;1.87;Bachelor's
+1369;F;63;1.57;High School
+1370;M;21;1.87;Elementary
+1371;F;45;1.77;PhD
+1372;F;29;1.56;None
+1373;F;41;1.62;High School
+1374;F;32;1.93;PhD
+1375;F;45;1.97;Bachelor's
+1376;M;29;1.88;PhD
+1377;M;48;1.52;Bachelor's
+1378;M;74;1.72;High School
+1379;M;40;1.73;Elementary
+1380;F;58;1.66;Elementary
+1381;M;35;1.98;PhD
+1382;F;56;1.8;High School
+1383;M;45;1.76;PhD
+1384;M;49;1.57;PhD
+1385;F;72;1.51;Master's
+1386;F;69;1.92;PhD
+1387;M;36;1.71;High School
+1388;M;40;1.52;Master's
+1389;M;74;1.97;Master's
+1390;F;21;1.85;Master's
+1391;F;19;1.79;Bachelor's
+1392;F;27;1.95;High School
+1393;F;59;1.85;Elementary
+1394;F;45;1.98;None
+1395;F;70;1.6;None
+1396;F;48;1.84;Elementary
+1397;F;55;1.51;High School
+1398;F;68;1.86;Elementary
+1399;F;41;1.94;Master's
+1400;M;41;1.69;PhD
+1401;M;69;1.53;Bachelor's
+1402;M;56;1.99;High School
+1403;F;45;1.48;None
+1404;M;34;2.01;Elementary
+1405;F;62;1.82;PhD
+1406;F;61;1.94;Elementary
+1407;M;36;1.75;Master's
+1408;F;68;1.56;Bachelor's
+1409;F;36;1.64;Elementary
+1410;F;72;1.89;None
+1411;F;21;2.01;High School
+1412;M;28;1.61;None
+1413;F;74;1.64;Elementary
+1414;F;31;1.58;Bachelor's
+1415;M;21;1.69;Master's
+1416;F;31;1.77;Elementary
+1417;F;55;1.51;PhD
+1418;F;40;1.7;Master's
+1419;F;60;1.65;Elementary
+1420;M;39;1.89;PhD
+1421;F;61;1.68;PhD
+1422;M;65;1.68;Master's
+1423;F;20;1.84;None
+1424;F;49;1.68;Elementary
+1425;F;45;1.66;Master's
+1426;F;33;1.51;PhD
+1427;F;55;1.73;Elementary
+1428;M;25;1.53;High School
+1429;F;70;1.8;Bachelor's
+1430;M;50;1.86;None
+1431;M;19;1.47;PhD
+1432;F;45;1.53;PhD
+1433;M;33;1.63;PhD
+1434;F;75;1.9;PhD
+1435;F;35;1.46;None
+1436;F;76;1.67;PhD
+1437;F;43;1.91;PhD
+1438;M;62;1.89;High School
+1439;F;46;1.57;Master's
+1440;M;66;1.73;PhD
+1441;M;64;1.62;High School
+1442;M;24;1.65;High School
+1443;F;31;1.84;Bachelor's
+1444;F;58;1.93;None
+1445;M;70;1.98;High School
+1446;M;74;1.88;PhD
+1447;F;41;1.51;High School
+1448;M;58;1.81;High School
+1449;F;27;1.56;Elementary
+1450;F;49;1.54;None
+1451;M;37;1.78;Master's
+1452;F;57;1.68;Bachelor's
+1453;M;51;1.77;PhD
+1454;M;44;1.84;Bachelor's
+1455;M;56;1.99;Master's
+1456;F;35;1.97;PhD
+1457;M;41;1.9;PhD
+1458;F;74;1.86;None
+1459;F;46;1.87;Master's
+1460;F;54;1.63;Elementary
+1461;M;46;1.51;Elementary
+1462;F;66;1.9;PhD
+1463;M;20;1.56;Bachelor's
+1464;M;66;1.81;Elementary
+1465;M;22;1.69;Bachelor's
+1466;M;65;1.77;Elementary
+1467;M;59;1.49;Elementary
+1468;M;68;1.82;Master's
+1469;M;76;1.75;None
+1470;F;68;1.55;Elementary
+1471;F;63;1.73;None
+1472;F;42;1.57;PhD
+1473;M;31;1.73;Master's
+1474;F;71;1.96;PhD
+1475;F;31;1.96;Elementary
+1476;F;34;1.71;PhD
+1477;F;75;2.01;PhD
+1478;M;58;1.64;None
+1479;F;42;1.58;None
+1480;M;39;1.6;High School
+1481;M;60;1.59;PhD
+1482;M;30;1.54;Bachelor's
+1483;M;28;1.83;PhD
+1484;M;73;1.89;None
+1485;M;69;1.99;PhD
+1486;F;56;1.85;None
+1487;M;71;1.55;PhD
+1488;F;24;1.85;None
+1489;F;22;1.51;High School
+1490;F;53;1.69;Bachelor's
+1491;F;38;1.8;High School
+1492;F;19;1.98;Master's
+1493;F;25;1.52;Master's
+1494;F;31;1.97;PhD
+1495;M;43;1.67;Bachelor's
+1496;F;51;1.79;PhD
+1497;M;25;1.93;High School
+1498;M;29;1.98;Bachelor's
+1499;F;26;1.48;High School
+1500;M;44;1.5;Elementary
+1501;F;48;1.48;Bachelor's
+1502;M;62;1.9;None
+1503;F;24;1.54;High School
+1504;F;51;1.89;High School
+1505;M;22;1.87;Master's
+1506;F;41;1.5;Bachelor's
+1507;F;47;1.58;Master's
+1508;F;44;1.53;High School
+1509;F;41;1.51;Elementary
+1510;F;46;1.86;Bachelor's
+1511;M;67;1.46;PhD
+1512;F;66;1.86;None
+1513;M;60;1.81;None
+1514;F;68;1.81;PhD
+1515;F;31;1.56;None
+1516;F;33;1.58;Master's
+1517;M;54;1.78;High School
+1518;F;75;1.56;None
+1519;F;31;1.87;PhD
+1520;F;66;1.87;None
+1521;F;50;1.61;Bachelor's
+1522;M;25;1.93;High School
+1523;F;59;1.68;High School
+1524;F;42;1.85;PhD
+1525;M;60;1.76;Elementary
+1526;M;51;1.76;Bachelor's
+1527;F;54;1.46;None
+1528;F;33;1.86;Elementary
+1529;M;70;1.94;Bachelor's
+1530;F;63;1.87;Elementary
+1531;M;50;2.01;Master's
+1532;M;42;1.85;Bachelor's
+1533;M;64;1.85;None
+1534;F;33;1.85;Master's
+1535;F;70;1.84;PhD
+1536;F;44;1.93;PhD
+1537;F;74;1.83;Bachelor's
+1538;M;72;1.71;Elementary
+1539;M;26;1.7;Elementary
+1540;F;50;1.85;Elementary
+1541;M;42;1.78;Bachelor's
+1542;F;26;2.01;None
+1543;M;62;1.82;Elementary
+1544;F;40;1.96;None
+1545;M;23;1.97;Elementary
+1546;F;18;1.94;Elementary
+1547;M;25;1.82;High School
+1548;M;55;1.55;Master's
+1549;M;25;1.92;High School
+1550;F;57;1.55;Master's
+1551;M;54;1.74;Master's
+1552;M;36;1.99;High School
+1553;F;38;1.67;Bachelor's
+1554;F;70;1.88;High School
+1555;F;29;1.76;High School
+1556;F;71;1.56;None
+1557;M;64;1.64;Elementary
+1558;M;51;1.55;Master's
+1559;M;29;1.76;Elementary
+1560;M;31;1.97;Elementary
+1561;F;59;1.84;Master's
+1562;F;63;1.83;Elementary
+1563;F;59;1.88;High School
+1564;F;27;1.74;Elementary
+1565;M;61;1.75;Elementary
+1566;F;57;1.96;Bachelor's
+1567;F;32;1.63;Master's
+1568;M;54;1.56;Elementary
+1569;F;30;1.92;High School
+1570;F;54;1.52;None
+1571;M;52;1.88;High School
+1572;F;28;1.9;None
+1573;M;54;1.51;Master's
+1574;F;61;1.61;PhD
+1575;M;29;1.48;None
+1576;M;76;1.66;None
+1577;M;65;1.62;Elementary
+1578;F;68;1.79;None
+1579;F;63;1.47;Master's
+1580;F;72;1.79;Master's
+1581;M;72;1.56;Master's
+1582;M;23;1.73;Master's
+1583;F;68;1.66;High School
+1584;F;63;1.54;None
+1585;F;53;1.46;Bachelor's
+1586;F;28;1.69;PhD
+1587;F;38;1.96;Elementary
+1588;F;46;1.96;High School
+1589;F;57;1.62;Elementary
+1590;M;65;1.59;PhD
+1591;M;53;1.76;Elementary
+1592;M;23;1.76;PhD
+1593;F;64;1.85;High School
+1594;M;47;1.83;High School
+1595;M;20;1.47;Master's
+1596;F;63;1.64;Master's
+1597;M;23;1.8;Bachelor's
+1598;F;27;1.77;Master's
+1599;F;73;1.47;PhD
+1600;F;52;1.98;Bachelor's
+1601;M;35;1.98;None
+1602;F;19;1.95;Bachelor's
+1603;M;63;1.68;High School
+1604;M;71;1.78;High School
+1605;M;40;1.77;PhD
+1606;F;58;1.53;Bachelor's
+1607;M;35;1.51;Master's
+1608;F;58;1.75;None
+1609;F;69;1.73;Bachelor's
+1610;F;66;1.9;Master's
+1611;F;70;1.5;None
+1612;F;76;1.87;High School
+1613;F;45;1.91;Master's
+1614;M;63;1.66;Elementary
+1615;M;72;1.71;Master's
+1616;F;41;1.66;High School
+1617;F;51;1.57;Master's
+1618;F;33;1.97;Bachelor's
+1619;M;23;1.67;PhD
+1620;M;58;1.88;None
+1621;F;65;1.82;Elementary
+1622;F;68;1.88;PhD
+1623;M;75;1.87;Master's
+1624;M;76;1.51;PhD
+1625;F;72;1.82;Bachelor's
+1626;M;23;1.83;PhD
+1627;F;66;1.78;Master's
+1628;M;39;1.76;Master's
+1629;M;25;1.76;None
+1630;F;42;1.82;High School
+1631;F;69;1.89;Bachelor's
+1632;F;49;1.74;PhD
+1633;M;37;1.73;Elementary
+1634;F;68;1.65;Master's
+1635;F;32;1.58;Bachelor's
+1636;M;25;1.73;Elementary
+1637;F;42;1.98;High School
+1638;F;19;1.81;Elementary
+1639;F;40;1.58;Master's
+1640;F;55;1.92;Bachelor's
+1641;F;20;1.97;Elementary
+1642;M;76;1.5;Master's
+1643;F;73;1.52;Bachelor's
+1644;F;37;1.95;Bachelor's
+1645;M;39;2;None
+1646;M;62;1.95;PhD
+1647;F;22;1.74;None
+1648;M;29;1.88;None
+1649;M;54;2;High School
+1650;F;25;1.72;Elementary
+1651;F;40;1.53;Master's
+1652;F;33;1.79;PhD
+1653;F;52;1.76;Bachelor's
+1654;M;58;1.84;Elementary
+1655;F;44;1.84;Master's
+1656;F;29;1.82;High School
+1657;F;48;2;High School
+1658;F;72;1.85;PhD
+1659;F;33;1.49;Bachelor's
+1660;F;27;1.57;Elementary
+1661;F;19;1.84;Bachelor's
+1662;M;34;1.5;High School
+1663;M;67;1.54;None
+1664;F;28;1.92;None
+1665;F;54;1.55;Master's
+1666;F;52;1.83;Master's
+1667;M;45;1.62;Master's
+1668;F;47;1.65;PhD
+1669;M;64;1.86;Bachelor's
+1670;M;58;1.95;Master's
+1671;F;18;1.88;Bachelor's
+1672;F;55;1.46;High School
+1673;M;21;1.56;Elementary
+1674;F;36;1.74;Master's
+1675;F;47;1.59;Bachelor's
+1676;M;65;1.58;None
+1677;F;61;1.54;PhD
+1678;M;34;1.73;Elementary
+1679;M;31;1.91;Master's
+1680;F;63;1.46;Master's
+1681;M;21;1.86;Master's
+1682;M;45;1.75;None
+1683;F;65;1.93;Master's
+1684;F;59;1.88;High School
+1685;M;34;1.92;Elementary
+1686;F;57;1.6;Master's
+1687;M;66;1.56;Master's
+1688;M;37;1.5;None
+1689;F;71;1.9;PhD
+1690;M;40;1.81;Bachelor's
+1691;M;24;1.95;Master's
+1692;M;68;1.53;Master's
+1693;F;23;1.92;Bachelor's
+1694;F;62;1.51;PhD
+1695;F;74;1.9;High School
+1696;F;67;1.79;High School
+1697;M;41;2;Bachelor's
+1698;M;74;1.99;Bachelor's
+1699;M;55;2.01;High School
+1700;F;48;1.6;Elementary
+1701;F;56;1.67;Master's
+1702;F;64;1.66;Elementary
+1703;M;60;1.61;Elementary
+1704;F;18;1.68;High School
+1705;M;22;1.81;Elementary
+1706;F;67;1.76;High School
+1707;M;45;1.47;Master's
+1708;F;34;1.59;Master's
+1709;M;64;1.83;Master's
+1710;F;46;1.51;High School
+1711;M;43;1.65;PhD
+1712;M;37;1.95;Bachelor's
+1713;M;38;2.01;Bachelor's
+1714;M;18;1.75;Elementary
+1715;M;51;1.67;Elementary
+1716;M;63;1.55;Master's
+1717;F;40;1.64;Elementary
+1718;F;22;1.95;None
+1719;M;28;1.93;Bachelor's
+1720;F;53;1.72;Elementary
+1721;M;71;1.67;Bachelor's
+1722;M;21;1.78;Bachelor's
+1723;M;41;1.85;PhD
+1724;M;40;1.7;Master's
+1725;F;40;1.62;High School
+1726;M;60;1.59;Elementary
+1727;F;27;1.9;Bachelor's
+1728;F;51;1.87;PhD
+1729;F;32;1.97;Bachelor's
+1730;F;41;1.95;PhD
+1731;M;75;1.94;PhD
+1732;F;18;1.7;PhD
+1733;M;46;1.69;Elementary
+1734;F;64;1.54;High School
+1735;F;27;1.71;PhD
+1736;M;49;1.52;PhD
+1737;F;48;1.61;None
+1738;M;53;1.85;Elementary
+1739;M;60;1.81;None
+1740;F;47;1.72;Elementary
+1741;F;60;1.68;Master's
+1742;F;45;1.5;PhD
+1743;M;68;1.57;PhD
+1744;F;73;1.47;PhD
+1745;M;69;1.83;Master's
+1746;M;45;1.93;None
+1747;F;39;1.73;High School
+1748;M;67;1.74;PhD
+1749;M;69;1.92;Master's
+1750;F;66;1.73;None
+1751;M;63;1.74;High School
+1752;F;39;1.72;None
+1753;F;66;1.48;Bachelor's
+1754;F;35;1.54;None
+1755;M;37;1.46;Elementary
+1756;M;33;1.56;PhD
+1757;M;22;1.79;PhD
+1758;M;18;1.82;None
+1759;M;26;1.53;Master's
+1760;F;44;1.5;High School
+1761;M;19;1.88;Master's
+1762;F;28;1.47;Bachelor's
+1763;M;71;1.47;High School
+1764;F;31;1.78;PhD
+1765;M;18;1.47;None
+1766;F;25;1.77;High School
+1767;M;61;1.56;Bachelor's
+1768;F;30;1.46;PhD
+1769;F;62;1.77;Elementary
+1770;M;32;1.46;Bachelor's
+1771;F;55;1.88;PhD
+1772;F;61;1.68;None
+1773;M;50;1.46;High School
+1774;M;38;1.73;Bachelor's
+1775;F;29;1.54;Bachelor's
+1776;M;65;1.77;None
+1777;F;35;1.85;Elementary
+1778;F;48;1.69;Elementary
+1779;M;66;1.53;Bachelor's
+1780;F;68;1.7;High School
+1781;M;42;1.61;Elementary
+1782;M;47;1.99;High School
+1783;F;24;1.8;Bachelor's
+1784;M;38;1.57;Master's
+1785;F;20;1.91;Bachelor's
+1786;F;35;1.91;None
+1787;F;44;1.69;PhD
+1788;M;37;1.95;High School
+1789;M;57;1.51;Elementary
+1790;F;18;1.69;None
+1791;M;23;1.46;Bachelor's
+1792;F;60;1.63;Bachelor's
+1793;M;73;1.89;None
+1794;F;61;1.84;Master's
+1795;F;22;1.91;None
+1796;M;46;1.62;PhD
+1797;F;68;1.78;Master's
+1798;F;27;1.92;High School
+1799;M;42;1.96;Bachelor's
+1800;M;48;2;PhD
+1801;F;64;1.98;PhD
+1802;M;31;1.92;Bachelor's
+1803;F;76;1.8;PhD
+1804;M;55;1.61;Bachelor's
+1805;M;57;1.8;High School
+1806;M;76;1.61;Master's
+1807;M;37;1.84;PhD
+1808;M;47;1.93;None
+1809;M;42;2;PhD
+1810;F;40;1.53;Master's
+1811;F;69;1.74;High School
+1812;F;56;1.51;PhD
+1813;F;57;1.57;Bachelor's
+1814;F;63;1.56;Bachelor's
+1815;F;31;1.52;High School
+1816;F;41;1.76;Master's
+1817;M;61;1.68;Elementary
+1818;M;24;1.83;Elementary
+1819;M;31;1.92;Elementary
+1820;M;71;1.71;Bachelor's
+1821;F;19;1.76;Elementary
+1822;M;21;1.65;Bachelor's
+1823;F;24;1.78;High School
+1824;M;68;1.56;Elementary
+1825;M;72;1.54;Elementary
+1826;M;67;1.5;PhD
+1827;F;69;1.72;High School
+1828;M;72;1.83;Master's
+1829;F;60;1.8;Elementary
+1830;M;64;1.53;PhD
+1831;M;33;1.9;Master's
+1832;M;22;1.84;Bachelor's
+1833;M;34;1.77;None
+1834;M;20;1.56;PhD
+1835;F;29;1.55;Elementary
+1836;F;54;1.48;High School
+1837;F;38;1.51;Bachelor's
+1838;M;27;1.88;PhD
+1839;F;48;1.62;Master's
+1840;F;29;1.5;Master's
+1841;M;61;1.67;High School
+1842;F;43;1.52;Elementary
+1843;M;18;1.52;Master's
+1844;F;50;1.77;Bachelor's
+1845;M;56;1.49;PhD
+1846;M;25;1.57;Master's
+1847;F;53;1.87;Elementary
+1848;F;59;1.73;Master's
+1849;F;56;1.68;Bachelor's
+1850;F;52;1.76;High School
+1851;F;38;1.9;Master's
+1852;F;56;1.82;Master's
+1853;M;49;1.96;PhD
+1854;M;28;1.55;Elementary
+1855;M;26;1.72;Elementary
+1856;F;58;1.94;PhD
+1857;M;31;1.78;PhD
+1858;M;35;1.8;None
+1859;F;18;1.78;Elementary
+1860;M;28;1.71;Bachelor's
+1861;M;32;1.97;Master's
+1862;F;26;1.72;Elementary
+1863;M;73;1.75;PhD
+1864;F;73;1.64;Elementary
+1865;M;22;1.68;PhD
+1866;F;54;1.88;Bachelor's
+1867;M;64;1.95;Elementary
+1868;M;56;1.86;None
+1869;M;21;1.64;None
+1870;M;74;1.76;Elementary
+1871;F;38;1.84;None
+1872;M;39;1.6;None
+1873;M;43;1.55;Elementary
+1874;M;34;1.49;Master's
+1875;M;32;1.75;Master's
+1876;M;48;1.71;Elementary
+1877;F;46;1.6;Bachelor's
+1878;M;52;1.69;PhD
+1879;M;47;1.96;Master's
+1880;M;27;1.46;Master's
+1881;F;44;1.94;Bachelor's
+1882;F;67;2;None
+1883;M;40;1.8;PhD
+1884;F;55;1.57;PhD
+1885;M;59;1.6;High School
+1886;M;72;1.92;None
+1887;F;53;1.7;High School
+1888;M;27;1.79;Bachelor's
+1889;F;60;1.92;None
+1890;M;50;1.48;Master's
+1891;M;20;1.88;None
+1892;M;35;1.52;None
+1893;F;42;1.59;None
+1894;F;25;1.49;Bachelor's
+1895;F;70;1.71;Master's
+1896;M;61;1.62;Bachelor's
+1897;F;68;1.51;PhD
+1898;F;32;1.68;Master's
+1899;M;29;1.5;Bachelor's
+1900;F;27;1.94;Elementary
+1901;M;76;1.87;High School
+1902;F;20;1.63;Master's
+1903;M;19;1.6;High School
+1904;F;33;1.53;PhD
+1905;M;39;1.93;Elementary
+1906;F;18;1.87;Master's
+1907;M;50;1.6;Elementary
+1908;F;43;1.69;None
+1909;M;25;1.82;Master's
+1910;F;57;1.62;High School
+1911;M;66;1.56;Elementary
+1912;M;67;1.82;Elementary
+1913;F;44;1.77;None
+1914;F;29;1.68;High School
+1915;F;73;1.68;High School
+1916;F;70;1.71;PhD
+1917;M;67;1.63;Master's
+1918;F;18;1.61;Elementary
+1919;F;55;1.75;Elementary
+1920;M;22;1.84;Bachelor's
+1921;M;69;1.7;PhD
+1922;F;50;1.6;None
+1923;M;26;1.99;PhD
+1924;F;19;1.55;Elementary
+1925;F;44;1.54;None
+1926;M;32;1.82;High School
+1927;F;25;1.92;Master's
+1928;M;39;1.78;Elementary
+1929;F;36;1.48;None
+1930;M;56;1.53;Master's
+1931;F;49;1.84;Master's
+1932;M;45;1.58;Elementary
+1933;F;66;1.63;Master's
+1934;F;55;1.64;PhD
+1935;M;74;1.87;None
+1936;M;70;1.74;Elementary
+1937;F;74;1.88;None
+1938;M;72;1.58;Master's
+1939;M;54;1.77;High School
+1940;F;76;1.66;PhD
+1941;M;66;1.81;PhD
+1942;F;19;2;None
+1943;F;31;2;None
+1944;F;37;1.82;Bachelor's
+1945;F;28;1.57;Elementary
+1946;F;52;1.89;Master's
+1947;F;71;1.97;High School
+1948;F;31;1.61;PhD
+1949;F;36;1.79;Elementary
+1950;M;52;1.58;Bachelor's
+1951;F;20;1.83;Bachelor's
+1952;M;21;1.74;None
+1953;F;61;1.5;Elementary
+1954;M;31;1.85;Bachelor's
+1955;M;19;1.78;Elementary
+1956;F;60;1.73;Bachelor's
+1957;F;45;1.53;None
+1958;F;70;1.65;PhD
+1959;F;53;1.5;Elementary
+1960;M;39;1.71;Bachelor's
+1961;M;24;1.92;None
+1962;M;22;1.91;Master's
+1963;F;20;1.9;Elementary
+1964;M;47;2.01;Bachelor's
+1965;M;66;1.79;High School
+1966;F;33;1.86;Bachelor's
+1967;F;74;1.6;High School
+1968;F;33;1.86;Master's
+1969;M;36;1.65;Master's
+1970;F;43;1.6;None
+1971;M;45;1.75;High School
+1972;M;36;1.99;Master's
+1973;F;22;1.81;PhD
+1974;M;18;1.99;Master's
+1975;F;31;1.48;Bachelor's
+1976;M;38;1.51;High School
+1977;F;26;1.5;None
+1978;M;55;1.96;High School
+1979;F;69;1.93;PhD
+1980;M;76;1.64;Elementary
+1981;M;53;1.91;High School
+1982;M;74;1.82;None
+1983;F;38;1.61;None
+1984;M;22;1.96;Master's
+1985;M;59;1.81;High School
+1986;M;26;1.57;High School
+1987;M;36;1.71;PhD
+1988;M;25;1.8;PhD
+1989;M;41;1.65;Master's
+1990;M;59;1.69;Bachelor's
+1991;M;22;1.98;Master's
+1992;F;54;1.49;High School
+1993;F;69;1.64;PhD
+1994;F;57;1.72;None
+1995;F;68;1.62;Bachelor's
+1996;F;29;1.75;Master's
+1997;F;51;1.46;None
+1998;M;64;1.56;Master's
+1999;M;62;1.58;Master's
+2000;F;58;1.84;Bachelor's
+2001;M;67;1.54;Bachelor's
+2002;M;37;1.86;PhD
+2003;F;49;1.77;High School
+2004;F;61;1.91;Elementary
+2005;M;38;1.56;Master's
+2006;F;42;1.6;None
+2007;M;30;1.94;Elementary
+2008;F;69;1.63;High School
+2009;F;31;1.9;Bachelor's
+2010;M;35;1.82;Master's
+2011;F;38;1.97;High School
+2012;M;31;1.57;Elementary
+2013;F;73;1.47;Bachelor's
+2014;M;25;1.99;PhD
+2015;M;67;1.86;Bachelor's
+2016;F;70;1.68;Bachelor's
+2017;M;34;2;Bachelor's
+2018;F;68;1.64;Bachelor's
+2019;F;33;1.87;Elementary
+2020;M;25;1.88;Elementary
+2021;F;70;2;Master's
+2022;F;59;1.69;Elementary
+2023;M;57;1.95;PhD
+2024;M;20;1.46;Elementary
+2025;M;74;1.75;None
+2026;F;23;1.48;PhD
+2027;F;43;1.68;Bachelor's
+2028;M;44;1.9;Master's
+2029;F;58;1.87;Master's
+2030;F;76;1.89;Elementary
+2031;M;31;1.73;Elementary
+2032;M;67;1.7;None
+2033;M;72;1.87;None
+2034;F;44;1.59;PhD
+2035;F;58;1.85;Elementary
+2036;M;26;1.63;None
+2037;M;52;1.53;PhD
+2038;F;31;1.82;High School
+2039;M;64;1.67;Elementary
+2040;F;34;1.74;None
+2041;M;40;1.52;High School
+2042;M;66;1.67;PhD
+2043;M;33;1.7;High School
+2044;F;63;1.53;Elementary
+2045;M;40;1.76;Bachelor's
+2046;M;52;1.85;Elementary
+2047;M;23;1.92;PhD
+2048;M;23;1.76;None
+2049;F;55;1.73;Master's
+2050;F;59;1.85;Master's
+2051;M;25;1.49;None
+2052;F;62;1.6;None
+2053;M;36;1.92;PhD
+2054;M;19;1.59;Master's
+2055;M;26;1.77;High School
+2056;M;65;1.89;Bachelor's
+2057;M;65;1.72;Master's
+2058;M;46;1.55;Elementary
+2059;M;34;1.53;Bachelor's
+2060;F;29;1.51;High School
+2061;M;29;1.57;PhD
+2062;M;34;1.78;Bachelor's
+2063;M;56;1.8;PhD
+2064;F;76;1.5;Master's
+2065;F;62;1.48;Master's
+2066;M;50;1.46;Elementary
+2067;F;18;1.99;High School
+2068;F;63;1.58;PhD
+2069;M;71;2;High School
+2070;M;31;2;Bachelor's
+2071;M;34;1.59;None
+2072;F;28;1.77;Master's
+2073;F;72;1.46;PhD
+2074;F;68;1.59;Master's
+2075;M;75;1.78;Elementary
+2076;F;20;1.87;Master's
+2077;F;42;1.47;Bachelor's
+2078;M;65;1.99;Master's
+2079;M;25;1.81;Bachelor's
+2080;F;36;1.65;None
+2081;F;71;1.84;Bachelor's
+2082;F;67;1.67;Master's
+2083;F;65;1.96;High School
+2084;M;23;1.72;None
+2085;F;50;1.78;PhD
+2086;M;18;1.8;High School
+2087;F;26;1.88;PhD
+2088;M;50;1.72;PhD
+2089;M;47;1.8;PhD
+2090;M;24;1.96;PhD
+2091;M;26;1.71;Master's
+2092;M;65;1.88;Elementary
+2093;M;71;1.64;Elementary
+2094;F;49;1.83;Master's
+2095;M;29;1.66;None
+2096;M;28;1.92;High School
+2097;F;52;1.97;Elementary
+2098;F;49;1.61;None
+2099;M;25;1.89;Bachelor's
+2100;M;28;1.6;None
+2101;M;28;1.66;None
+2102;M;67;1.71;High School
+2103;F;56;1.57;Master's
+2104;M;57;1.82;High School
+2105;F;23;1.69;PhD
+2106;M;58;1.98;Bachelor's
+2107;F;55;1.56;Bachelor's
+2108;F;44;1.78;Bachelor's
+2109;F;41;1.53;None
+2110;F;46;1.55;High School
+2111;F;31;1.66;Master's
+2112;M;56;1.67;None
+2113;M;74;1.95;PhD
+2114;M;62;1.8;Bachelor's
+2115;M;46;1.59;Bachelor's
+2116;F;53;1.89;Bachelor's
+2117;F;33;1.98;High School
+2118;F;65;1.55;Bachelor's
+2119;M;29;1.66;Master's
+2120;M;27;1.55;Elementary
+2121;M;67;1.57;Master's
+2122;F;61;1.68;Master's
+2123;M;43;1.99;None
+2124;M;71;1.84;High School
+2125;M;52;1.96;Master's
+2126;F;46;1.49;Bachelor's
+2127;F;66;1.56;Bachelor's
+2128;F;48;1.58;Master's
+2129;M;69;1.77;Bachelor's
+2130;F;22;2.01;None
+2131;F;46;1.55;None
+2132;F;45;1.64;Master's
+2133;F;75;1.64;Elementary
+2134;M;21;1.63;Elementary
+2135;M;68;1.46;High School
+2136;M;37;1.74;High School
+2137;M;75;1.96;Elementary
+2138;F;24;1.81;Elementary
+2139;F;64;1.59;Bachelor's
+2140;M;45;1.97;None
+2141;M;56;1.94;Bachelor's
+2142;F;23;1.87;PhD
+2143;F;61;1.61;Bachelor's
+2144;M;50;1.99;Bachelor's
+2145;M;38;1.69;Elementary
+2146;M;66;1.77;Master's
+2147;F;75;1.89;None
+2148;F;25;1.98;High School
+2149;M;73;1.95;Master's
+2150;M;57;1.9;Master's
+2151;M;37;1.95;PhD
+2152;M;65;1.93;Bachelor's
+2153;M;76;1.82;PhD
+2154;F;20;1.84;High School
+2155;M;28;1.66;Master's
+2156;F;30;1.56;None
+2157;M;21;1.85;Master's
+2158;F;21;1.85;None
+2159;F;51;1.94;Bachelor's
+2160;F;54;1.49;None
+2161;M;58;1.51;Elementary
+2162;M;35;1.82;PhD
+2163;F;71;1.65;Elementary
+2164;F;73;1.59;None
+2165;F;74;1.53;High School
+2166;F;34;1.54;Master's
+2167;F;52;1.91;Elementary
+2168;M;40;2;Bachelor's
+2169;M;20;1.83;Bachelor's
+2170;M;64;1.57;None
+2171;M;57;1.9;PhD
+2172;F;51;1.6;PhD
+2173;F;31;1.55;Bachelor's
+2174;F;46;1.75;PhD
+2175;F;71;1.77;None
+2176;M;48;1.77;Elementary
+2177;M;33;1.66;Bachelor's
+2178;M;54;1.89;High School
+2179;F;66;1.77;Master's
+2180;F;23;1.73;High School
+2181;M;50;1.55;High School
+2182;M;31;1.48;Master's
+2183;M;20;1.48;None
+2184;M;70;1.59;Master's
+2185;F;24;1.63;Bachelor's
+2186;F;63;1.59;PhD
+2187;F;43;1.57;High School
+2188;F;61;1.96;Bachelor's
+2189;F;71;1.48;PhD
+2190;M;33;1.97;PhD
+2191;F;39;1.88;Bachelor's
+2192;M;69;1.79;PhD
+2193;M;74;1.91;Master's
+2194;F;60;1.79;Master's
+2195;F;62;1.78;PhD
+2196;F;61;2.01;PhD
+2197;M;54;1.8;Bachelor's
+2198;F;28;1.86;High School
+2199;F;39;1.64;PhD
+2200;M;58;1.77;Elementary
+2201;M;33;1.77;PhD
+2202;M;59;1.51;None
+2203;M;18;1.73;PhD
+2204;F;36;1.84;Bachelor's
+2205;M;49;1.65;Bachelor's
+2206;M;50;1.73;PhD
+2207;F;73;1.6;None
+2208;M;45;1.62;Elementary
+2209;M;76;1.62;High School
+2210;F;73;1.74;Master's
+2211;M;62;1.72;Master's
+2212;M;55;1.93;High School
+2213;F;68;1.86;Bachelor's
+2214;F;75;1.75;Master's
+2215;M;70;1.67;PhD
+2216;M;39;1.71;Master's
+2217;F;24;1.87;Bachelor's
+2218;M;57;1.76;High School
+2219;F;19;2.01;None
+2220;F;47;1.7;Elementary
+2221;M;28;1.96;Bachelor's
+2222;F;40;1.51;None
+2223;F;22;1.68;Elementary
+2224;F;39;1.89;None
+2225;M;54;1.95;None
+2226;M;52;1.54;None
+2227;F;23;1.55;High School
+2228;F;42;1.65;None
+2229;M;34;1.73;PhD
+2230;M;44;1.6;Master's
+2231;F;21;1.48;Bachelor's
+2232;F;35;1.89;High School
+2233;M;55;1.71;None
+2234;F;31;1.66;Elementary
+2235;F;70;1.73;Master's
+2236;F;19;1.62;Master's
+2237;M;27;1.88;PhD
+2238;M;66;1.64;High School
+2239;F;67;1.93;PhD
+2240;M;18;1.88;Elementary
+2241;M;35;1.93;Master's
+2242;M;51;1.6;None
+2243;F;65;1.92;Bachelor's
+2244;F;20;1.86;None
+2245;M;32;2;High School
+2246;F;56;1.51;Master's
+2247;F;35;1.88;Master's
+2248;F;75;1.66;None
+2249;F;45;1.86;None
+2250;F;54;1.96;Master's
+2251;M;18;1.89;Master's
+2252;F;59;1.79;None
+2253;F;69;1.96;High School
+2254;M;45;1.56;Elementary
+2255;M;29;1.79;None
+2256;M;73;1.76;Bachelor's
+2257;M;40;1.91;Bachelor's
+2258;F;36;1.65;None
+2259;F;57;1.63;None
+2260;M;73;1.96;Master's
+2261;F;35;1.51;None
+2262;M;36;1.7;PhD
+2263;F;56;1.48;PhD
+2264;M;62;1.72;Bachelor's
+2265;F;58;1.56;Master's
+2266;M;36;1.93;None
+2267;M;68;1.99;Bachelor's
+2268;F;55;1.99;PhD
+2269;M;33;1.52;Elementary
+2270;F;28;1.65;Bachelor's
+2271;F;52;1.57;High School
+2272;M;32;1.99;High School
+2273;F;75;1.74;None
+2274;M;65;1.74;High School
+2275;F;27;1.47;High School
+2276;F;49;1.49;Master's
+2277;M;53;1.79;Elementary
+2278;M;63;1.55;PhD
+2279;F;33;1.79;Bachelor's
+2280;M;20;1.8;High School
+2281;M;29;1.78;High School
+2282;M;30;1.73;Elementary
+2283;M;64;1.46;Bachelor's
+2284;M;55;1.71;None
+2285;M;67;1.82;PhD
+2286;M;68;1.53;Bachelor's
+2287;F;21;1.84;Elementary
+2288;M;21;1.62;PhD
+2289;M;25;1.6;None
+2290;F;44;1.53;Elementary
+2291;M;50;1.84;None
+2292;M;64;1.81;Master's
+2293;M;45;1.87;High School
+2294;M;49;1.65;None
+2295;F;42;1.99;High School
+2296;F;74;1.52;Bachelor's
+2297;M;22;2.01;Elementary
+2298;M;56;1.59;Elementary
+2299;F;56;1.71;Master's
+2300;F;48;1.96;High School
+2301;M;61;1.71;None
+2302;M;41;1.56;PhD
+2303;F;58;1.74;Bachelor's
+2304;M;26;1.65;PhD
+2305;M;69;1.58;High School
+2306;M;73;1.98;Elementary
+2307;F;58;1.71;None
+2308;M;74;1.84;Elementary
+2309;M;23;1.66;Master's
+2310;M;44;1.64;PhD
+2311;F;53;2;PhD
+2312;M;31;1.59;High School
+2313;F;36;2;None
+2314;M;21;1.88;Elementary
+2315;F;75;1.81;PhD
+2316;M;72;1.75;Master's
+2317;F;26;1.75;None
+2318;M;20;1.96;None
+2319;M;59;1.82;Bachelor's
+2320;M;43;1.51;High School
+2321;M;33;1.97;Master's
+2322;M;26;1.56;Bachelor's
+2323;M;51;1.79;Elementary
+2324;F;22;1.94;None
+2325;F;22;1.59;High School
+2326;M;47;1.79;Master's
+2327;M;54;1.52;Master's
+2328;M;57;1.55;Master's
+2329;F;64;1.87;Master's
+2330;M;68;1.96;Bachelor's
+2331;F;19;1.62;None
+2332;M;50;2;Bachelor's
+2333;F;72;1.62;PhD
+2334;F;73;1.96;Bachelor's
+2335;F;33;1.63;Master's
+2336;M;64;1.62;Elementary
+2337;F;68;1.54;High School
+2338;F;36;1.58;Bachelor's
+2339;M;18;1.87;Elementary
+2340;F;54;1.63;None
+2341;F;27;1.95;Master's
+2342;F;49;1.5;None
+2343;F;70;1.84;High School
+2344;F;38;1.65;Elementary
+2345;F;70;1.51;PhD
+2346;M;76;1.5;PhD
+2347;M;67;1.68;PhD
+2348;F;54;1.57;Elementary
+2349;M;55;1.9;Bachelor's
+2350;M;38;1.79;Bachelor's
+2351;M;39;1.64;Master's
+2352;F;31;1.76;Master's
+2353;M;30;1.82;Bachelor's
+2354;F;47;1.65;PhD
+2355;M;73;1.64;None
+2356;M;41;1.76;PhD
+2357;F;71;1.9;PhD
+2358;M;42;1.87;PhD
+2359;M;45;1.82;None
+2360;M;76;1.69;Master's
+2361;F;52;2;Bachelor's
+2362;F;61;1.66;Master's
+2363;F;56;1.92;High School
+2364;M;38;1.64;Bachelor's
+2365;F;61;1.46;Master's
+2366;M;21;1.97;High School
+2367;M;67;1.49;Master's
+2368;M;25;1.84;Bachelor's
+2369;M;43;1.77;Master's
+2370;M;40;1.63;Elementary
+2371;F;65;1.72;Elementary
+2372;M;73;1.74;None
+2373;M;64;1.86;PhD
+2374;F;42;1.85;PhD
+2375;F;48;1.88;Master's
+2376;M;19;1.77;High School
+2377;F;40;1.57;PhD
+2378;F;19;1.56;High School
+2379;F;38;1.68;PhD
+2380;F;44;1.48;High School
+2381;M;49;1.73;High School
+2382;M;50;1.99;Bachelor's
+2383;F;31;1.76;PhD
+2384;F;37;1.9;None
+2385;F;44;1.53;None
+2386;F;53;1.79;PhD
+2387;M;50;1.5;Master's
+2388;F;50;1.56;High School
+2389;M;23;1.71;None
+2390;M;50;1.63;Elementary
+2391;M;71;1.48;None
+2392;M;45;1.69;None
+2393;M;63;1.79;Bachelor's
+2394;F;62;1.95;Elementary
+2395;F;74;1.59;PhD
+2396;M;67;1.57;High School
+2397;F;43;1.93;Bachelor's
+2398;M;51;1.89;Master's
+2399;M;25;1.65;Master's
+2400;F;50;2;Bachelor's
+2401;M;63;1.63;PhD
+2402;M;22;2.01;PhD
+2403;F;25;1.49;None
+2404;M;22;1.96;High School
+2405;M;75;1.65;PhD
+2406;F;56;1.81;Master's
+2407;M;61;1.83;Elementary
+2408;F;29;1.6;Bachelor's
+2409;M;23;1.59;Master's
+2410;F;38;1.93;Bachelor's
+2411;F;39;1.68;High School
+2412;M;69;1.99;None
+2413;M;56;1.63;PhD
+2414;F;46;1.91;None
+2415;M;25;1.93;Bachelor's
+2416;F;68;1.93;Master's
+2417;M;20;1.7;Elementary
+2418;M;19;1.77;High School
+2419;M;54;1.47;High School
+2420;F;65;1.6;Bachelor's
+2421;M;39;1.92;Master's
+2422;F;53;1.78;Master's
+2423;F;59;1.57;PhD
+2424;F;51;1.56;Master's
+2425;F;40;1.86;PhD
+2426;F;35;1.92;Elementary
+2427;M;18;1.69;PhD
+2428;M;47;1.59;Master's
+2429;M;46;1.49;PhD
+2430;F;59;1.52;Master's
+2431;F;57;1.82;Master's
+2432;F;52;1.82;Bachelor's
+2433;M;25;1.93;Elementary
+2434;F;47;1.49;Master's
+2435;F;60;1.76;High School
+2436;F;60;1.77;Master's
+2437;M;45;1.53;High School
+2438;M;47;1.86;Bachelor's
+2439;M;30;1.58;None
+2440;F;42;1.56;High School
+2441;M;38;1.48;Bachelor's
+2442;M;45;1.57;Master's
+2443;F;57;1.5;Master's
+2444;F;37;1.86;PhD
+2445;F;69;1.78;High School
+2446;M;51;1.86;PhD
+2447;F;43;1.86;None
+2448;F;37;1.9;None
+2449;M;25;1.54;PhD
+2450;M;42;1.91;PhD
+2451;F;26;1.96;Master's
+2452;M;28;1.89;Elementary
+2453;F;36;2.01;None
+2454;M;66;1.84;High School
+2455;M;63;1.62;None
+2456;M;46;1.95;PhD
+2457;F;40;1.67;High School
+2458;M;68;1.94;Master's
+2459;M;55;1.63;Elementary
+2460;F;36;1.57;Elementary
+2461;M;24;1.88;None
+2462;M;42;1.97;High School
+2463;F;28;1.49;None
+2464;M;53;1.83;PhD
+2465;M;61;1.82;None
+2466;M;46;1.63;Elementary
+2467;F;33;1.77;Elementary
+2468;F;76;1.93;Elementary
+2469;M;61;1.91;PhD
+2470;F;36;1.99;Elementary
+2471;M;25;1.75;None
+2472;M;22;1.99;None
+2473;M;27;1.46;Bachelor's
+2474;F;60;1.71;PhD
+2475;F;75;1.83;PhD
+2476;M;68;1.8;Bachelor's
+2477;M;67;1.59;PhD
+2478;M;34;1.66;None
+2479;F;50;1.87;Master's
+2480;M;43;1.71;Elementary
+2481;M;37;1.69;PhD
+2482;F;28;1.55;PhD
+2483;M;57;1.55;Elementary
+2484;F;28;1.92;Master's
+2485;M;63;1.92;High School
+2486;M;51;1.77;Bachelor's
+2487;M;37;1.49;Master's
+2488;F;67;1.66;Master's
+2489;F;53;1.47;None
+2490;F;18;1.91;High School
+2491;F;48;1.95;None
+2492;F;40;1.61;PhD
+2493;M;63;1.92;Master's
+2494;F;53;1.6;Elementary
+2495;M;36;1.72;PhD
+2496;F;39;1.76;Elementary
+2497;F;64;1.69;Master's
+2498;M;59;1.62;Bachelor's
+2499;M;25;1.62;High School
+2500;F;48;1.47;Master's
+2501;M;22;1.8;Elementary
+2502;M;53;1.85;Elementary
+2503;F;70;1.56;Elementary
+2504;M;23;1.57;High School
+2505;M;54;1.84;High School
+2506;F;50;1.49;Bachelor's
+2507;F;19;1.89;PhD
+2508;F;76;1.92;Master's
+2509;M;72;1.98;Master's
+2510;M;27;1.69;PhD
+2511;M;45;1.83;PhD
+2512;F;34;1.61;Master's
+2513;M;18;1.87;Elementary
+2514;F;31;1.69;Bachelor's
+2515;F;50;1.71;Bachelor's
+2516;M;58;1.74;PhD
+2517;F;46;1.53;Bachelor's
+2518;F;18;1.78;Bachelor's
+2519;F;18;1.6;PhD
+2520;M;45;1.6;Bachelor's
+2521;M;42;1.98;Master's
+2522;M;30;2.01;Master's
+2523;M;69;1.74;Elementary
+2524;M;45;1.77;Elementary
+2525;M;55;1.71;High School
+2526;F;37;1.75;Bachelor's
+2527;M;19;1.61;None
+2528;M;69;1.5;Master's
+2529;M;48;1.48;Master's
+2530;M;26;1.96;High School
+2531;F;21;1.66;Elementary
+2532;M;32;1.62;Bachelor's
+2533;M;22;1.93;Bachelor's
+2534;F;41;1.65;Bachelor's
+2535;F;70;1.65;Bachelor's
+2536;M;56;1.76;Bachelor's
+2537;F;57;1.49;High School
+2538;M;57;1.55;PhD
+2539;F;75;1.93;High School
+2540;F;68;1.97;PhD
+2541;M;73;1.63;PhD
+2542;F;45;1.76;PhD
+2543;M;46;1.47;None
+2544;F;51;1.83;PhD
+2545;F;73;1.99;High School
+2546;F;22;1.58;Master's
+2547;M;46;1.93;None
+2548;F;29;1.69;PhD
+2549;M;55;1.83;Bachelor's
+2550;M;39;1.83;None
+2551;M;26;2;PhD
+2552;M;21;1.96;PhD
+2553;F;44;1.46;None
+2554;F;48;1.97;Elementary
+2555;F;55;1.71;Master's
+2556;F;72;1.57;PhD
+2557;M;18;1.95;Bachelor's
+2558;M;27;1.63;None
+2559;F;62;1.58;High School
+2560;F;61;1.81;High School
+2561;F;29;1.62;Elementary
+2562;M;34;1.89;PhD
+2563;M;55;1.57;Bachelor's
+2564;M;44;1.81;Bachelor's
+2565;F;36;1.64;Bachelor's
+2566;M;67;1.65;PhD
+2567;F;70;1.54;Master's
+2568;M;37;1.59;Elementary
+2569;F;53;1.61;Bachelor's
+2570;F;31;1.81;PhD
+2571;F;39;1.78;Bachelor's
+2572;F;68;1.71;Elementary
+2573;M;21;1.99;Master's
+2574;F;26;1.55;PhD
+2575;M;73;1.52;Bachelor's
+2576;M;36;1.85;Elementary
+2577;F;42;1.83;High School
+2578;F;43;1.47;Master's
+2579;F;54;1.81;Elementary
+2580;M;64;1.93;Bachelor's
+2581;M;43;1.67;Master's
+2582;F;74;1.97;Elementary
+2583;F;63;1.72;Master's
+2584;M;65;1.55;Bachelor's
+2585;F;46;1.69;Bachelor's
+2586;M;76;1.78;PhD
+2587;F;46;1.76;None
+2588;M;23;1.59;None
+2589;F;51;1.99;High School
+2590;F;70;1.81;High School
+2591;F;43;1.51;Elementary
+2592;F;68;1.58;Elementary
+2593;M;69;1.65;None
+2594;F;62;1.53;Bachelor's
+2595;F;60;1.6;Master's
+2596;M;43;1.49;None
+2597;M;25;1.85;High School
+2598;F;69;1.88;None
+2599;F;50;1.82;High School
+2600;F;52;1.82;Bachelor's
+2601;M;33;1.54;Master's
+2602;F;35;1.78;None
+2603;F;74;1.89;Elementary
+2604;F;39;1.7;Elementary
+2605;F;64;1.87;High School
+2606;M;55;1.81;Master's
+2607;M;69;1.65;High School
+2608;M;32;1.62;Elementary
+2609;M;23;1.62;High School
+2610;M;56;1.46;PhD
+2611;M;36;1.53;PhD
+2612;F;69;2;Master's
+2613;M;57;1.84;None
+2614;M;24;2.01;Elementary
+2615;F;40;1.96;Elementary
+2616;M;38;2.01;None
+2617;F;57;1.63;High School
+2618;M;55;1.56;None
+2619;M;74;1.48;PhD
+2620;F;52;1.85;PhD
+2621;F;47;1.51;Bachelor's
+2622;M;73;1.78;PhD
+2623;M;41;1.63;None
+2624;M;43;1.84;PhD
+2625;F;50;1.63;High School
+2626;F;71;1.71;High School
+2627;M;62;1.6;Elementary
+2628;M;43;1.67;Bachelor's
+2629;M;68;1.73;None
+2630;M;30;1.87;PhD
+2631;M;54;1.92;Elementary
+2632;M;21;1.59;None
+2633;F;23;1.63;PhD
+2634;F;51;1.53;None
+2635;F;74;1.72;PhD
+2636;M;25;1.66;High School
+2637;M;70;1.5;PhD
+2638;F;22;1.93;None
+2639;F;20;1.89;Elementary
+2640;F;76;1.8;PhD
+2641;M;36;1.96;Bachelor's
+2642;M;24;1.8;None
+2643;M;61;1.59;None
+2644;F;49;1.48;None
+2645;F;69;1.87;Master's
+2646;M;68;1.85;PhD
+2647;F;27;1.83;None
+2648;M;30;1.91;PhD
+2649;F;63;1.87;Elementary
+2650;F;42;1.96;None
+2651;F;67;1.62;Master's
+2652;F;47;1.58;None
+2653;M;68;1.69;Master's
+2654;M;31;1.75;Master's
+2655;M;66;1.86;PhD
+2656;M;61;1.88;None
+2657;M;59;1.89;PhD
+2658;M;23;1.76;Bachelor's
+2659;M;60;1.71;Master's
+2660;F;42;1.53;Bachelor's
+2661;F;19;1.8;Master's
+2662;M;58;1.9;High School
+2663;F;49;1.8;High School
+2664;M;74;1.52;High School
+2665;M;44;1.51;None
+2666;M;51;1.84;Elementary
+2667;M;54;1.66;PhD
+2668;F;42;1.69;Bachelor's
+2669;F;27;1.98;Master's
+2670;M;74;2.01;Bachelor's
+2671;F;70;1.5;Elementary
+2672;M;40;2.01;High School
+2673;M;65;1.5;Elementary
+2674;F;18;1.81;None
+2675;M;67;1.68;None
+2676;F;40;1.94;PhD
+2677;F;71;1.51;Elementary
+2678;M;50;1.61;High School
+2679;F;59;1.51;Master's
+2680;M;24;1.46;Bachelor's
+2681;F;54;2;Master's
+2682;M;28;1.5;None
+2683;M;20;1.56;High School
+2684;M;21;1.91;None
+2685;F;46;1.57;Master's
+2686;M;60;1.49;Master's
+2687;F;59;1.57;None
+2688;M;61;1.86;Bachelor's
+2689;M;72;1.83;Elementary
+2690;F;66;1.54;Master's
+2691;M;47;1.78;Master's
+2692;M;27;1.9;PhD
+2693;M;58;1.75;Elementary
+2694;F;59;1.66;Elementary
+2695;M;58;1.61;Bachelor's
+2696;F;44;1.82;PhD
+2697;F;45;1.84;None
+2698;F;50;1.73;Master's
+2699;M;65;1.69;Elementary
+2700;F;26;1.95;PhD
+2701;M;18;1.66;High School
+2702;M;51;1.54;PhD
+2703;M;53;2.01;Elementary
+2704;F;51;1.9;None
+2705;F;29;1.46;None
+2706;F;18;1.69;None
+2707;F;60;1.94;PhD
+2708;M;55;1.87;Master's
+2709;F;60;1.97;Bachelor's
+2710;M;75;1.63;High School
+2711;F;27;1.99;Master's
+2712;F;46;1.59;High School
+2713;F;41;1.97;Master's
+2714;F;73;2.01;PhD
+2715;F;26;1.7;Master's
+2716;M;27;1.75;None
+2717;M;57;1.98;Elementary
+2718;F;45;1.52;Master's
+2719;M;45;1.82;PhD
+2720;F;65;1.88;Bachelor's
+2721;F;40;1.88;Bachelor's
+2722;M;40;1.63;None
+2723;F;46;1.57;Bachelor's
+2724;F;68;1.7;None
+2725;M;61;1.99;Elementary
+2726;M;37;1.88;Master's
+2727;M;27;1.89;Bachelor's
+2728;F;42;1.73;Bachelor's
+2729;F;55;1.9;Bachelor's
+2730;F;76;1.52;None
+2731;M;45;1.97;High School
+2732;M;76;1.96;Elementary
+2733;M;60;1.97;PhD
+2734;M;38;1.5;PhD
+2735;M;54;2.01;Elementary
+2736;M;56;1.73;Bachelor's
+2737;M;62;1.88;Elementary
+2738;M;43;1.65;None
+2739;M;70;1.64;Elementary
+2740;M;19;1.62;Elementary
+2741;M;71;1.46;High School
+2742;M;70;1.77;Elementary
+2743;M;42;1.78;Elementary
+2744;M;29;1.71;None
+2745;M;28;1.79;PhD
+2746;F;58;1.91;Bachelor's
+2747;M;47;1.57;Bachelor's
+2748;M;41;1.89;PhD
+2749;M;58;1.52;Bachelor's
+2750;M;61;1.96;Bachelor's
+2751;M;75;1.5;None
+2752;M;71;1.54;Master's
+2753;M;27;1.75;Master's
+2754;M;45;1.84;High School
+2755;M;41;1.72;High School
+2756;F;54;1.96;High School
+2757;F;54;1.98;None
+2758;F;20;1.58;Elementary
+2759;F;44;1.71;High School
+2760;M;40;2;Master's
+2761;F;19;1.83;Bachelor's
+2762;F;60;1.86;PhD
+2763;M;42;1.46;Bachelor's
+2764;M;71;1.75;None
+2765;F;72;1.84;Master's
+2766;M;27;1.81;High School
+2767;M;25;1.59;Bachelor's
+2768;F;57;1.89;Elementary
+2769;M;30;1.89;None
+2770;M;46;1.49;High School
+2771;M;20;1.51;Master's
+2772;F;63;1.86;None
+2773;M;44;1.76;PhD
+2774;F;56;1.79;None
+2775;M;45;1.97;None
+2776;M;51;1.6;Bachelor's
+2777;M;35;1.9;Master's
+2778;M;36;1.54;Master's
+2779;F;36;1.99;Master's
+2780;F;41;1.99;Master's
+2781;M;70;1.46;Elementary
+2782;M;35;1.7;High School
+2783;F;21;1.63;Bachelor's
+2784;F;51;1.98;PhD
+2785;F;18;1.68;PhD
+2786;M;64;1.93;Bachelor's
+2787;M;48;1.58;PhD
+2788;F;18;1.47;PhD
+2789;F;64;1.68;Elementary
+2790;M;50;1.92;Bachelor's
+2791;M;33;1.96;None
+2792;F;65;1.79;High School
+2793;M;52;1.74;Bachelor's
+2794;F;30;1.86;Bachelor's
+2795;F;57;1.67;High School
+2796;M;60;1.77;Elementary
+2797;M;47;1.72;Bachelor's
+2798;F;71;1.99;Elementary
+2799;F;43;1.58;None
+2800;M;29;1.69;Elementary
+2801;F;61;1.88;PhD
+2802;F;18;1.55;Master's
+2803;M;63;1.66;Elementary
+2804;M;54;1.92;Bachelor's
+2805;F;50;1.89;Bachelor's
+2806;F;66;2.01;None
+2807;M;39;1.73;Bachelor's
+2808;M;28;1.99;Master's
+2809;M;61;1.82;Master's
+2810;F;21;1.59;Elementary
+2811;F;43;1.71;None
+2812;F;36;1.97;None
+2813;M;28;1.87;High School
+2814;M;29;1.63;High School
+2815;M;76;1.93;High School
+2816;F;54;1.49;Master's
+2817;F;24;1.77;High School
+2818;F;55;1.94;None
+2819;F;52;1.76;Elementary
+2820;M;65;1.64;Master's
+2821;M;59;1.89;None
+2822;F;40;1.61;High School
+2823;M;49;1.87;None
+2824;F;23;1.73;Bachelor's
+2825;M;43;1.77;Bachelor's
+2826;F;23;1.47;None
+2827;M;69;1.83;PhD
+2828;M;45;1.79;Master's
+2829;F;45;1.73;Elementary
+2830;M;40;1.95;None
+2831;F;19;1.74;Master's
+2832;M;53;1.94;None
+2833;F;36;1.88;Elementary
+2834;M;62;1.78;PhD
+2835;M;23;1.8;None
+2836;F;23;1.52;PhD
+2837;M;26;1.99;None
+2838;F;45;1.79;Master's
+2839;F;21;1.51;None
+2840;M;45;2;PhD
+2841;F;29;1.86;PhD
+2842;F;66;1.49;Bachelor's
+2843;F;62;2;High School
+2844;F;64;1.81;Bachelor's
+2845;F;21;1.72;Bachelor's
+2846;F;22;1.64;High School
+2847;F;45;1.74;High School
+2848;M;61;1.77;High School
+2849;F;64;1.88;Bachelor's
+2850;F;51;1.56;None
+2851;M;27;1.72;None
+2852;F;41;1.83;High School
+2853;M;43;1.69;PhD
+2854;F;34;1.62;Bachelor's
+2855;M;18;1.99;PhD
+2856;F;38;1.98;Elementary
+2857;M;24;1.72;High School
+2858;F;33;1.69;None
+2859;F;70;1.75;High School
+2860;F;27;1.93;Elementary
+2861;M;76;1.88;High School
+2862;M;48;1.99;PhD
+2863;F;37;1.85;None
+2864;F;40;2.01;Elementary
+2865;F;66;1.66;Bachelor's
+2866;M;30;1.96;Elementary
+2867;M;56;1.47;High School
+2868;F;30;1.99;Master's
+2869;M;74;1.62;PhD
+2870;M;33;1.76;Elementary
+2871;F;44;1.88;PhD
+2872;F;22;1.86;None
+2873;M;45;1.48;Bachelor's
+2874;M;62;1.64;High School
+2875;M;60;1.8;Master's
+2876;M;42;1.66;Bachelor's
+2877;M;51;1.68;Master's
+2878;F;46;1.96;Bachelor's
+2879;M;35;1.72;Elementary
+2880;F;23;1.48;High School
+2881;M;45;1.47;None
+2882;F;52;1.75;Bachelor's
+2883;F;33;1.81;Master's
+2884;F;39;1.74;Elementary
+2885;F;53;1.55;None
+2886;M;34;1.67;Master's
+2887;F;31;1.65;PhD
+2888;M;20;1.93;Elementary
+2889;F;61;1.99;Elementary
+2890;M;36;1.62;None
+2891;F;47;1.93;Elementary
+2892;M;37;1.98;Master's
+2893;M;65;1.7;Elementary
+2894;F;55;1.97;High School
+2895;F;44;1.58;Bachelor's
+2896;F;72;1.51;Elementary
+2897;M;39;2.01;Elementary
+2898;F;20;1.77;High School
+2899;M;25;1.47;PhD
+2900;M;53;1.76;High School
+2901;F;52;1.95;PhD
+2902;F;48;1.52;Master's
+2903;M;25;1.92;Master's
+2904;F;48;1.94;PhD
+2905;M;48;1.57;Bachelor's
+2906;F;52;1.7;Master's
+2907;F;43;1.72;PhD
+2908;M;55;1.92;None
+2909;M;66;2;High School
+2910;M;52;1.54;Elementary
+2911;F;26;1.99;Elementary
+2912;M;21;1.84;Bachelor's
+2913;M;74;1.84;Master's
+2914;M;31;1.73;PhD
+2915;M;37;1.78;High School
+2916;F;67;1.53;High School
+2917;M;59;1.88;Elementary
+2918;M;25;1.56;Master's
+2919;M;24;1.94;Master's
+2920;F;43;1.52;High School
+2921;M;28;1.69;High School
+2922;F;71;1.96;None
+2923;M;19;1.76;PhD
+2924;M;75;1.62;PhD
+2925;M;38;1.88;Elementary
+2926;M;31;1.74;Bachelor's
+2927;M;53;1.73;Elementary
+2928;F;50;1.81;Bachelor's
+2929;M;72;1.5;None
+2930;F;34;1.69;None
+2931;F;62;1.9;PhD
+2932;M;38;1.79;High School
+2933;F;51;1.98;None
+2934;F;52;1.53;Bachelor's
+2935;F;59;1.52;High School
+2936;F;52;1.9;Master's
+2937;M;48;1.67;Elementary
+2938;M;28;1.79;PhD
+2939;F;20;1.94;Bachelor's
+2940;M;42;1.87;Master's
+2941;F;25;1.9;Master's
+2942;F;67;1.76;High School
+2943;F;56;1.58;None
+2944;F;68;1.55;PhD
+2945;M;71;1.58;Bachelor's
+2946;M;33;1.77;Elementary
+2947;F;26;1.67;Elementary
+2948;M;48;1.72;None
+2949;M;23;1.46;PhD
+2950;M;52;1.47;Bachelor's
+2951;M;37;1.52;None
+2952;M;43;1.74;Bachelor's
+2953;F;74;1.65;Elementary
+2954;M;71;1.55;None
+2955;M;64;1.67;High School
+2956;F;19;1.9;PhD
+2957;F;20;1.54;None
+2958;F;71;1.61;None
+2959;F;67;1.71;Master's
+2960;M;40;1.81;Elementary
+2961;F;73;1.68;PhD
+2962;F;42;1.75;Bachelor's
+2963;M;62;1.63;Elementary
+2964;M;69;1.63;Bachelor's
+2965;F;62;1.66;Bachelor's
+2966;M;64;1.52;PhD
+2967;M;43;1.68;Elementary
+2968;M;64;1.78;Bachelor's
+2969;M;75;1.56;Elementary
+2970;M;72;1.56;Master's
+2971;F;49;1.49;Master's
+2972;M;33;1.92;Bachelor's
+2973;F;37;1.56;None
+2974;M;58;1.66;Master's
+2975;M;26;1.88;Elementary
+2976;M;20;1.97;Elementary
+2977;M;70;1.79;Bachelor's
+2978;F;59;1.82;Bachelor's
+2979;F;58;1.6;PhD
+2980;F;53;1.96;Elementary
+2981;F;37;1.87;High School
+2982;M;40;2.01;High School
+2983;F;61;1.7;Elementary
+2984;M;43;1.53;None
+2985;M;29;1.71;Bachelor's
+2986;F;24;1.53;Master's
+2987;F;43;1.59;High School
+2988;M;42;1.54;PhD
+2989;F;51;1.86;PhD
+2990;F;67;1.66;High School
+2991;F;51;1.91;Bachelor's
+2992;F;60;1.57;High School
+2993;M;21;1.89;Master's
+2994;M;51;1.49;High School
+2995;F;27;1.72;None
+2996;M;40;1.62;PhD
+2997;M;51;1.7;High School
+2998;F;52;1.92;PhD
+2999;M;55;1.65;High School
+3000;M;76;1.66;Elementary
+3001;M;30;1.72;Elementary
+3002;F;72;1.58;High School
+3003;M;47;1.66;Elementary
+3004;M;33;2;None
+3005;F;41;1.98;Master's
+3006;F;53;1.94;PhD
+3007;M;24;1.53;Master's
+3008;F;34;1.85;Bachelor's
+3009;M;48;1.94;Elementary
+3010;F;39;1.81;Elementary
+3011;F;49;1.6;None
+3012;F;24;1.6;Bachelor's
+3013;F;68;1.68;PhD
+3014;F;48;1.97;PhD
+3015;F;53;1.54;None
+3016;M;29;1.94;Master's
+3017;F;37;1.97;Master's
+3018;F;45;1.54;Master's
+3019;M;67;1.52;Bachelor's
+3020;M;48;1.79;PhD
+3021;F;32;1.89;Bachelor's
+3022;F;22;1.61;High School
+3023;F;56;1.58;Bachelor's
+3024;M;58;1.93;Master's
+3025;M;52;1.51;None
+3026;F;69;1.69;None
+3027;F;23;1.91;High School
+3028;M;56;1.58;None
+3029;F;26;1.76;PhD
+3030;M;33;1.48;Bachelor's
+3031;F;64;1.94;Elementary
+3032;M;40;1.68;Bachelor's
+3033;F;21;1.5;High School
+3034;M;36;1.6;None
+3035;M;51;1.67;PhD
+3036;F;41;1.64;Bachelor's
+3037;M;55;1.54;Bachelor's
+3038;M;31;1.54;Master's
+3039;F;50;1.85;High School
+3040;F;52;1.59;Elementary
+3041;F;65;1.77;High School
+3042;M;35;1.7;Master's
+3043;M;68;1.7;High School
+3044;M;44;1.64;PhD
+3045;F;26;1.78;High School
+3046;F;38;1.87;Elementary
+3047;M;38;1.72;PhD
+3048;M;35;2;High School
+3049;F;35;1.92;Bachelor's
+3050;F;51;1.56;PhD
+3051;F;51;1.9;Master's
+3052;F;43;1.54;Master's
+3053;F;56;2.01;PhD
+3054;F;23;1.71;None
+3055;M;68;1.53;None
+3056;M;26;2;Bachelor's
+3057;F;58;2.01;PhD
+3058;F;39;1.53;None
+3059;M;38;1.46;High School
+3060;F;46;1.46;Bachelor's
+3061;F;49;1.89;Elementary
+3062;F;43;1.6;Bachelor's
+3063;F;70;1.65;None
+3064;M;31;1.72;High School
+3065;M;70;1.92;None
+3066;F;25;1.76;Elementary
+3067;F;75;1.81;Bachelor's
+3068;M;40;1.58;High School
+3069;F;21;1.65;Master's
+3070;M;46;1.46;None
+3071;F;47;1.73;Bachelor's
+3072;M;68;1.74;Elementary
+3073;M;44;1.81;PhD
+3074;F;64;1.83;Master's
+3075;M;33;1.82;Elementary
+3076;M;29;1.66;High School
+3077;M;64;1.67;PhD
+3078;F;64;1.87;PhD
+3079;M;54;1.77;Elementary
+3080;M;68;1.6;None
+3081;M;65;1.6;Elementary
+3082;F;43;1.54;Bachelor's
+3083;M;61;1.52;Elementary
+3084;M;31;1.94;Master's
+3085;F;61;1.78;Bachelor's
+3086;F;40;1.57;Master's
+3087;F;61;1.77;Bachelor's
+3088;F;41;1.61;Elementary
+3089;F;21;1.7;Bachelor's
+3090;F;74;1.69;PhD
+3091;M;49;1.98;PhD
+3092;F;48;1.76;PhD
+3093;F;62;1.59;Elementary
+3094;F;20;1.52;PhD
+3095;M;20;1.5;Bachelor's
+3096;M;18;1.79;Elementary
+3097;M;37;1.93;Bachelor's
+3098;F;29;1.86;Master's
+3099;F;18;1.47;PhD
+3100;F;45;1.53;Master's
+3101;M;23;1.5;High School
+3102;M;43;1.57;Master's
+3103;F;54;1.52;None
+3104;F;32;1.69;PhD
+3105;M;20;1.47;Bachelor's
+3106;M;49;1.81;PhD
+3107;M;40;1.52;High School
+3108;M;64;1.7;None
+3109;F;54;1.58;Bachelor's
+3110;F;55;1.55;Elementary
+3111;M;67;1.5;High School
+3112;M;27;1.97;None
+3113;M;58;1.57;PhD
+3114;F;76;2.01;Bachelor's
+3115;F;70;1.48;High School
+3116;M;44;1.57;Bachelor's
+3117;F;24;1.5;Bachelor's
+3118;M;75;1.79;Master's
+3119;F;32;1.93;Master's
+3120;M;33;1.86;Elementary
+3121;F;30;1.62;None
+3122;M;71;1.56;Elementary
+3123;F;34;1.53;Master's
+3124;M;35;1.85;None
+3125;F;52;1.7;Master's
+3126;M;69;1.51;Bachelor's
+3127;F;43;1.98;Elementary
+3128;M;38;2.01;High School
+3129;F;49;1.9;PhD
+3130;M;22;1.62;Elementary
+3131;M;50;1.86;Master's
+3132;M;62;1.56;Bachelor's
+3133;F;64;1.8;High School
+3134;F;42;1.72;None
+3135;M;31;1.99;Master's
+3136;F;36;1.71;None
+3137;F;24;1.84;None
+3138;F;25;1.86;Bachelor's
+3139;F;23;1.72;Bachelor's
+3140;F;52;1.99;Elementary
+3141;M;30;1.57;High School
+3142;F;36;1.56;PhD
+3143;F;24;1.73;High School
+3144;M;61;1.83;Master's
+3145;M;53;1.48;PhD
+3146;F;76;1.55;High School
+3147;F;35;1.75;PhD
+3148;F;56;1.5;PhD
+3149;F;43;1.79;Bachelor's
+3150;M;75;1.77;None
+3151;F;68;1.78;Elementary
+3152;F;68;1.49;High School
+3153;F;58;1.76;PhD
+3154;M;61;1.86;None
+3155;F;67;1.7;High School
+3156;M;30;1.75;Elementary
+3157;F;67;1.83;Bachelor's
+3158;M;46;1.82;High School
+3159;M;59;1.79;None
+3160;M;52;1.84;PhD
+3161;F;44;1.81;None
+3162;M;50;1.86;High School
+3163;F;41;1.89;Elementary
+3164;M;75;1.84;None
+3165;M;25;1.67;PhD
+3166;M;36;1.52;None
+3167;M;63;2.01;Bachelor's
+3168;M;62;1.93;High School
+3169;M;28;1.81;PhD
+3170;F;40;1.66;Bachelor's
+3171;M;52;1.87;None
+3172;F;69;1.62;None
+3173;F;34;1.73;PhD
+3174;M;50;1.74;High School
+3175;F;29;1.75;High School
+3176;M;65;1.61;Bachelor's
+3177;M;69;1.51;None
+3178;M;36;1.58;PhD
+3179;F;51;2;PhD
+3180;M;68;1.75;PhD
+3181;F;50;1.92;PhD
+3182;M;48;1.49;High School
+3183;M;48;1.7;High School
+3184;M;20;1.87;Master's
+3185;M;38;1.93;High School
+3186;F;61;1.55;High School
+3187;M;30;1.92;PhD
+3188;F;31;1.63;Bachelor's
+3189;M;74;1.57;Elementary
+3190;F;41;1.76;High School
+3191;F;51;1.66;Bachelor's
+3192;F;49;1.51;None
+3193;M;38;1.85;Elementary
+3194;F;19;1.5;PhD
+3195;F;70;1.77;Bachelor's
+3196;M;64;1.69;High School
+3197;F;63;1.52;Master's
+3198;F;26;1.85;Master's
+3199;F;58;1.95;PhD
+3200;F;69;1.65;High School
+3201;F;33;1.6;Master's
+3202;F;44;1.9;High School
+3203;M;51;1.94;Master's
+3204;M;31;1.73;PhD
+3205;M;67;1.82;Master's
+3206;F;33;1.51;Master's
+3207;F;75;1.55;None
+3208;M;42;1.97;High School
+3209;M;32;1.46;Elementary
+3210;M;44;1.9;High School
+3211;F;58;1.5;None
+3212;F;74;1.68;Master's
+3213;F;74;1.62;PhD
+3214;M;26;1.76;Elementary
+3215;F;70;1.84;PhD
+3216;M;75;1.53;High School
+3217;M;27;1.95;None
+3218;F;22;1.91;Elementary
+3219;F;58;1.57;Master's
+3220;M;76;1.5;Bachelor's
+3221;F;23;1.93;None
+3222;M;54;1.87;Elementary
+3223;M;44;1.96;Elementary
+3224;M;49;2.01;High School
+3225;M;63;1.71;Master's
+3226;M;48;1.55;Bachelor's
+3227;M;57;1.54;Elementary
+3228;F;51;1.9;Elementary
+3229;M;27;1.46;Master's
+3230;F;39;1.82;Bachelor's
+3231;F;50;1.84;PhD
+3232;M;68;1.98;PhD
+3233;M;20;1.68;Bachelor's
+3234;F;32;1.66;Elementary
+3235;M;55;1.74;High School
+3236;M;44;1.64;Master's
+3237;M;48;2.01;PhD
+3238;F;43;1.87;Master's
+3239;F;24;1.95;High School
+3240;F;19;1.91;Elementary
+3241;M;23;1.92;High School
+3242;M;27;1.52;PhD
+3243;F;19;1.53;None
+3244;F;28;2.01;Elementary
+3245;M;29;1.67;High School
+3246;M;33;1.48;High School
+3247;M;46;1.64;Elementary
+3248;F;28;1.48;PhD
+3249;F;47;1.8;Bachelor's
+3250;M;56;1.73;None
+3251;M;74;1.48;None
+3252;M;70;1.59;Master's
+3253;M;19;1.93;Bachelor's
+3254;M;68;1.95;None
+3255;M;75;1.91;None
+3256;F;67;1.84;None
+3257;M;23;1.97;Bachelor's
+3258;M;31;1.86;Elementary
+3259;M;29;1.66;None
+3260;M;24;1.9;None
+3261;F;58;1.48;Master's
+3262;M;72;1.84;High School
+3263;F;28;1.76;Master's
+3264;M;55;1.61;High School
+3265;M;37;1.7;PhD
+3266;F;71;1.84;PhD
+3267;M;33;1.66;PhD
+3268;F;26;1.98;PhD
+3269;F;19;1.47;PhD
+3270;M;66;1.54;Bachelor's
+3271;F;51;1.87;Master's
+3272;F;21;1.99;Master's
+3273;F;53;1.99;Elementary
+3274;F;68;1.67;PhD
+3275;M;47;1.57;Bachelor's
+3276;M;58;1.9;PhD
+3277;M;57;1.98;Bachelor's
+3278;M;74;1.86;PhD
+3279;F;33;1.46;PhD
+3280;F;21;1.85;Bachelor's
+3281;M;59;2.01;High School
+3282;M;35;1.73;High School
+3283;F;56;1.57;PhD
+3284;M;52;1.63;PhD
+3285;F;43;1.83;Master's
+3286;F;48;1.5;High School
+3287;F;41;1.51;PhD
+3288;M;19;1.84;High School
+3289;F;58;1.72;Elementary
+3290;M;37;1.48;PhD
+3291;F;18;1.93;Elementary
+3292;F;46;1.77;Elementary
+3293;F;31;1.93;PhD
+3294;M;56;1.7;High School
+3295;F;46;1.71;High School
+3296;F;29;1.47;PhD
+3297;F;65;1.99;High School
+3298;M;38;1.86;Elementary
+3299;F;59;1.83;Master's
+3300;M;52;1.46;High School
+3301;F;61;1.64;Elementary
+3302;F;18;1.76;Elementary
+3303;F;73;1.9;Master's
+3304;F;57;1.6;High School
+3305;F;60;1.56;None
+3306;M;58;1.73;PhD
+3307;M;50;1.68;Bachelor's
+3308;M;70;1.63;Bachelor's
+3309;M;31;2;Master's
+3310;F;19;1.77;High School
+3311;F;59;1.74;Master's
+3312;F;44;1.58;None
+3313;F;51;1.58;PhD
+3314;F;74;1.9;None
+3315;F;67;1.96;Bachelor's
+3316;M;22;1.94;PhD
+3317;M;36;1.48;PhD
+3318;M;19;1.72;Elementary
+3319;M;46;1.98;PhD
+3320;F;66;1.69;PhD
+3321;M;53;1.58;Master's
+3322;M;56;1.62;Bachelor's
+3323;M;71;1.7;Bachelor's
+3324;M;72;1.56;PhD
+3325;M;24;1.5;None
+3326;M;73;1.86;Bachelor's
+3327;F;59;1.59;Elementary
+3328;M;58;1.93;Bachelor's
+3329;M;54;1.52;Elementary
+3330;F;54;1.63;Elementary
+3331;F;50;1.92;None
+3332;F;57;1.9;None
+3333;M;54;1.97;Bachelor's
+3334;M;74;1.48;PhD
+3335;F;65;1.53;PhD
+3336;F;75;1.52;Bachelor's
+3337;M;44;1.99;Elementary
+3338;F;44;1.97;High School
+3339;M;68;1.53;Bachelor's
+3340;F;62;1.87;Master's
+3341;M;48;1.5;PhD
+3342;M;31;1.51;PhD
+3343;F;23;1.58;PhD
+3344;F;46;1.91;PhD
+3345;F;62;2;Master's
+3346;M;23;1.49;High School
+3347;M;21;1.95;Master's
+3348;F;47;1.51;High School
+3349;M;70;1.48;Elementary
+3350;M;42;1.94;Master's
+3351;M;75;1.91;Master's
+3352;M;32;1.58;High School
+3353;M;37;1.97;High School
+3354;M;27;1.6;PhD
+3355;F;53;1.76;Master's
+3356;F;51;1.91;Bachelor's
+3357;M;62;1.94;Master's
+3358;M;56;2;PhD
+3359;F;45;1.75;PhD
+3360;F;23;1.68;Bachelor's
+3361;F;40;1.7;High School
+3362;M;51;1.73;PhD
+3363;M;60;1.94;Master's
+3364;M;52;1.51;High School
+3365;M;29;1.47;High School
+3366;F;30;1.71;Elementary
+3367;M;51;1.51;PhD
+3368;F;39;1.47;PhD
+3369;M;36;2;Elementary
+3370;M;23;1.85;Master's
+3371;F;37;1.81;Elementary
+3372;M;40;1.99;None
+3373;M;55;1.76;Bachelor's
+3374;F;71;1.78;None
+3375;M;33;1.76;Elementary
+3376;F;49;1.5;None
+3377;F;72;1.57;PhD
+3378;M;32;1.65;Master's
+3379;M;76;1.82;Elementary
+3380;M;55;1.79;Bachelor's
+3381;F;32;1.95;Elementary
+3382;F;54;1.93;None
+3383;F;29;1.51;PhD
+3384;M;22;1.65;Bachelor's
+3385;M;69;1.81;PhD
+3386;M;54;1.72;High School
+3387;M;32;1.72;Bachelor's
+3388;M;53;1.99;Master's
+3389;M;54;1.99;None
+3390;M;69;1.79;Master's
+3391;M;47;1.9;PhD
+3392;F;20;1.47;High School
+3393;M;59;1.46;None
+3394;M;53;1.59;Elementary
+3395;F;74;1.77;High School
+3396;F;63;1.95;PhD
+3397;F;42;1.47;High School
+3398;F;42;1.64;Master's
+3399;F;19;1.7;Bachelor's
+3400;F;29;2;Master's
+3401;M;21;1.55;None
+3402;M;53;1.56;Bachelor's
+3403;M;74;1.72;PhD
+3404;F;43;1.48;None
+3405;F;48;1.71;Elementary
+3406;M;47;1.63;Bachelor's
+3407;F;37;1.91;None
+3408;F;72;1.92;Bachelor's
+3409;F;24;1.7;Master's
+3410;M;29;1.86;Elementary
+3411;F;27;1.5;Bachelor's
+3412;M;31;1.7;Bachelor's
+3413;F;48;1.91;Master's
+3414;M;71;1.88;None
+3415;M;30;1.93;Master's
+3416;M;72;1.53;Bachelor's
+3417;F;55;1.59;High School
+3418;F;39;1.88;None
+3419;M;62;1.73;Master's
+3420;F;45;1.57;PhD
+3421;M;23;1.59;Bachelor's
+3422;F;68;1.54;Bachelor's
+3423;M;74;1.52;PhD
+3424;F;63;1.83;Elementary
+3425;M;41;1.6;High School
+3426;F;76;1.56;PhD
+3427;F;33;1.49;Elementary
+3428;F;37;1.69;Elementary
+3429;F;52;1.65;Bachelor's
+3430;F;74;1.8;High School
+3431;M;20;1.51;High School
+3432;M;64;1.97;PhD
+3433;M;36;1.89;High School
+3434;M;69;1.57;Bachelor's
+3435;F;52;1.62;Bachelor's
+3436;M;72;1.79;Bachelor's
+3437;M;48;1.74;High School
+3438;M;40;1.54;Master's
+3439;F;31;1.93;Elementary
+3440;M;65;1.8;PhD
+3441;M;57;1.92;Master's
+3442;F;47;2.01;Bachelor's
+3443;F;59;1.86;High School
+3444;F;61;1.81;Master's
+3445;F;39;1.88;Bachelor's
+3446;F;28;1.84;Master's
+3447;M;35;1.68;High School
+3448;M;68;1.76;None
+3449;F;36;1.93;None
+3450;M;40;1.76;Elementary
+3451;F;76;1.89;Elementary
+3452;F;19;1.98;PhD
+3453;M;63;1.87;Bachelor's
+3454;M;76;1.5;Master's
+3455;M;50;1.99;None
+3456;M;76;1.73;High School
+3457;F;74;1.56;High School
+3458;F;20;1.98;PhD
+3459;M;34;1.61;High School
+3460;F;22;1.62;None
+3461;M;75;1.88;High School
+3462;M;47;1.86;High School
+3463;M;24;1.59;Bachelor's
+3464;M;70;1.66;PhD
+3465;F;58;1.66;PhD
+3466;M;59;1.84;PhD
+3467;M;29;2.01;PhD
+3468;M;62;1.92;PhD
+3469;M;55;1.75;High School
+3470;F;44;1.9;PhD
+3471;F;48;1.72;PhD
+3472;M;61;1.76;None
+3473;M;45;1.47;High School
+3474;M;70;1.76;Elementary
+3475;F;40;2;Bachelor's
+3476;M;26;1.49;Master's
+3477;M;24;2.01;None
+3478;F;28;1.67;High School
+3479;F;49;1.65;Master's
+3480;M;70;1.75;Bachelor's
+3481;M;76;1.76;High School
+3482;M;44;1.97;None
+3483;M;39;1.48;High School
+3484;M;47;1.91;PhD
+3485;M;23;1.51;High School
+3486;M;75;1.76;None
+3487;M;59;1.89;Master's
+3488;M;71;1.64;High School
+3489;M;48;1.54;Bachelor's
+3490;F;24;1.79;Master's
+3491;M;66;1.64;PhD
+3492;M;72;1.49;Elementary
+3493;F;49;1.47;Elementary
+3494;M;44;1.61;High School
+3495;M;49;2;Bachelor's
+3496;F;37;1.82;Master's
+3497;F;69;1.96;None
+3498;F;54;1.57;Bachelor's
+3499;M;30;1.79;High School
+3500;M;55;1.67;High School
+3501;M;19;1.75;None
+3502;F;18;1.54;Bachelor's
+3503;M;24;2.01;High School
+3504;M;60;1.88;Bachelor's
+3505;M;66;1.74;Bachelor's
+3506;M;62;1.96;Elementary
+3507;F;50;1.56;None
+3508;F;70;1.81;None
+3509;M;18;1.89;Master's
+3510;M;21;1.67;Master's
+3511;F;55;1.96;Bachelor's
+3512;F;35;2.01;None
+3513;M;72;1.77;None
+3514;M;19;1.75;PhD
+3515;F;76;1.56;PhD
+3516;F;45;1.85;PhD
+3517;M;57;1.93;Bachelor's
+3518;F;29;1.72;PhD
+3519;F;74;1.7;Bachelor's
+3520;M;38;1.66;Bachelor's
+3521;F;41;1.53;High School
+3522;M;75;1.78;High School
+3523;F;73;1.59;Bachelor's
+3524;M;47;1.69;High School
+3525;F;22;1.71;Master's
+3526;F;59;1.62;High School
+3527;M;64;1.63;Bachelor's
+3528;M;71;1.54;None
+3529;F;29;1.88;Elementary
+3530;M;34;1.78;Bachelor's
+3531;M;74;1.94;PhD
+3532;F;50;1.88;None
+3533;F;60;1.93;Bachelor's
+3534;M;37;1.61;High School
+3535;F;56;1.69;Master's
+3536;F;47;1.5;Master's
+3537;F;53;1.52;High School
+3538;F;25;1.46;PhD
+3539;F;74;1.8;Master's
+3540;F;60;1.76;None
+3541;M;59;1.47;None
+3542;M;53;1.96;None
+3543;F;66;1.5;High School
+3544;M;54;1.47;Master's
+3545;M;63;1.56;PhD
+3546;F;26;1.95;PhD
+3547;F;64;1.77;Elementary
+3548;F;18;1.74;PhD
+3549;F;51;1.59;None
+3550;F;69;1.52;Elementary
+3551;M;28;1.91;Bachelor's
+3552;M;32;1.63;None
+3553;M;70;1.95;Elementary
+3554;M;35;1.58;Bachelor's
+3555;F;22;1.53;Bachelor's
+3556;M;32;1.53;None
+3557;F;18;1.91;Master's
+3558;F;58;1.92;None
+3559;F;29;1.75;Master's
+3560;F;75;1.74;Elementary
+3561;M;74;1.99;Elementary
+3562;F;61;1.49;None
+3563;M;44;1.59;Master's
+3564;F;18;1.83;Master's
+3565;M;40;1.59;Master's
+3566;M;68;1.53;None
+3567;F;28;1.81;High School
+3568;F;49;2;PhD
+3569;F;28;1.97;Bachelor's
+3570;M;18;1.63;Bachelor's
+3571;F;49;1.77;Elementary
+3572;M;36;1.65;PhD
+3573;M;65;1.89;Bachelor's
+3574;M;30;1.83;Elementary
+3575;M;20;1.69;High School
+3576;M;49;1.88;Master's
+3577;F;26;1.74;PhD
+3578;M;26;1.62;PhD
+3579;F;61;1.93;High School
+3580;F;22;1.52;PhD
+3581;F;71;1.49;Bachelor's
+3582;M;30;1.75;High School
+3583;M;66;1.49;Master's
+3584;F;53;1.61;Master's
+3585;M;64;1.82;High School
+3586;M;60;1.46;Bachelor's
+3587;M;23;1.72;Master's
+3588;F;69;1.46;Bachelor's
+3589;F;65;1.81;Bachelor's
+3590;M;31;1.99;None
+3591;F;63;1.61;Elementary
+3592;F;22;1.77;None
+3593;F;64;1.46;Bachelor's
+3594;M;43;1.87;Master's
+3595;M;36;1.95;PhD
+3596;F;69;1.78;None
+3597;F;41;1.9;None
+3598;M;74;1.92;Master's
+3599;M;29;1.99;Master's
+3600;M;29;2;High School
+3601;M;43;1.73;Master's
+3602;F;70;1.56;Elementary
+3603;M;51;1.67;High School
+3604;F;62;1.72;Bachelor's
+3605;M;52;1.98;Master's
+3606;M;60;1.77;PhD
+3607;F;68;2;Master's
+3608;F;30;1.54;High School
+3609;F;36;1.92;High School
+3610;F;71;1.91;Master's
+3611;M;67;1.85;Master's
+3612;F;64;1.5;None
+3613;F;75;1.97;Master's
+3614;M;54;2.01;High School
+3615;M;58;1.88;Elementary
+3616;F;37;1.76;Master's
+3617;M;56;1.61;Master's
+3618;M;18;1.57;Bachelor's
+3619;F;20;1.69;Master's
+3620;M;67;1.72;PhD
+3621;M;64;1.71;Elementary
+3622;F;62;1.47;PhD
+3623;M;50;1.88;Bachelor's
+3624;M;33;1.97;None
+3625;F;69;1.68;Elementary
+3626;M;37;1.46;PhD
+3627;F;69;1.55;High School
+3628;F;42;1.58;Bachelor's
+3629;F;53;1.46;High School
+3630;M;72;1.46;High School
+3631;M;45;1.85;PhD
+3632;M;73;1.95;High School
+3633;F;54;1.73;None
+3634;M;18;1.57;Master's
+3635;F;38;1.91;PhD
+3636;F;76;1.74;Bachelor's
+3637;F;68;1.63;Bachelor's
+3638;M;40;1.54;Bachelor's
+3639;M;74;2.01;Elementary
+3640;F;65;1.62;Elementary
+3641;F;45;1.88;None
+3642;F;44;1.96;Bachelor's
+3643;M;37;1.66;Bachelor's
+3644;F;67;1.74;Elementary
+3645;M;40;1.85;Bachelor's
+3646;F;70;1.57;High School
+3647;F;54;1.83;PhD
+3648;M;38;1.48;Master's
+3649;F;34;2.01;High School
+3650;F;36;1.87;High School
+3651;M;34;1.7;High School
+3652;F;57;1.96;Bachelor's
+3653;M;21;1.55;Master's
+3654;M;57;1.5;High School
+3655;F;52;1.81;Master's
+3656;M;28;1.98;None
+3657;F;57;1.76;PhD
+3658;F;45;2.01;PhD
+3659;F;66;1.6;High School
+3660;M;33;1.81;Elementary
+3661;M;22;1.96;PhD
+3662;F;32;1.65;Master's
+3663;M;36;1.7;PhD
+3664;M;39;1.72;None
+3665;M;30;1.78;Master's
+3666;F;37;1.83;Elementary
+3667;M;32;1.54;High School
+3668;M;48;1.56;Bachelor's
+3669;M;25;2;None
+3670;F;74;1.59;Elementary
+3671;M;55;1.78;PhD
+3672;M;45;1.73;Master's
+3673;F;41;1.57;Master's
+3674;F;20;1.62;Master's
+3675;M;75;1.8;Elementary
+3676;M;63;1.69;High School
+3677;M;37;1.53;Master's
+3678;F;53;1.48;None
+3679;F;51;1.7;Elementary
+3680;M;21;1.47;Bachelor's
+3681;F;52;1.52;Elementary
+3682;F;53;1.85;Bachelor's
+3683;F;21;1.54;Master's
+3684;F;19;1.96;None
+3685;F;29;1.95;High School
+3686;F;68;1.68;PhD
+3687;M;70;1.52;Bachelor's
+3688;M;52;1.98;PhD
+3689;F;52;1.56;None
+3690;M;21;1.91;Elementary
+3691;M;74;1.96;Bachelor's
+3692;M;70;1.81;Master's
+3693;M;53;1.98;Elementary
+3694;M;26;1.75;High School
+3695;F;20;1.87;None
+3696;F;33;1.86;Master's
+3697;M;29;1.65;High School
+3698;M;18;2;Master's
+3699;M;36;1.92;High School
+3700;F;54;1.74;Master's
+3701;M;39;1.88;Elementary
+3702;M;71;1.87;Bachelor's
+3703;F;18;1.72;None
+3704;F;43;1.57;Elementary
+3705;F;70;1.93;Master's
+3706;M;42;1.78;Master's
+3707;F;59;1.96;Elementary
+3708;F;44;1.99;Elementary
+3709;F;69;1.69;Elementary
+3710;M;21;1.55;Elementary
+3711;F;76;1.53;Bachelor's
+3712;F;34;1.57;Bachelor's
+3713;M;57;1.92;None
+3714;F;42;1.92;High School
+3715;M;53;1.76;Bachelor's
+3716;F;37;1.74;PhD
+3717;M;20;1.86;Elementary
+3718;F;38;1.8;Master's
+3719;M;32;1.87;None
+3720;F;21;1.62;High School
+3721;M;42;1.95;Master's
+3722;M;25;1.79;None
+3723;M;26;1.68;Bachelor's
+3724;M;71;1.61;Master's
+3725;M;62;1.97;Elementary
+3726;M;57;1.49;High School
+3727;M;65;1.48;None
+3728;F;41;1.79;High School
+3729;M;74;1.61;Bachelor's
+3730;F;56;2;None
+3731;F;43;1.79;Elementary
+3732;M;24;1.47;High School
+3733;F;28;1.5;None
+3734;M;30;1.48;PhD
+3735;M;55;1.47;Bachelor's
+3736;F;33;1.58;Bachelor's
+3737;M;22;1.87;Bachelor's
+3738;F;73;1.7;High School
+3739;M;28;1.84;Master's
+3740;F;51;1.9;None
+3741;M;61;1.64;Elementary
+3742;F;47;1.97;Bachelor's
+3743;M;67;1.97;Elementary
+3744;F;47;1.64;Elementary
+3745;F;33;1.67;PhD
+3746;M;65;1.86;High School
+3747;M;74;1.66;Elementary
+3748;M;63;1.64;Elementary
+3749;F;62;1.72;Master's
+3750;F;22;1.91;PhD
+3751;M;61;1.85;Elementary
+3752;F;47;1.99;None
+3753;M;23;1.86;None
+3754;F;61;1.74;Master's
+3755;M;40;1.81;Master's
+3756;M;73;1.86;PhD
+3757;F;75;1.93;High School
+3758;M;53;1.91;Master's
+3759;F;58;1.58;PhD
+3760;M;51;1.5;High School
+3761;M;38;1.71;High School
+3762;F;53;1.81;None
+3763;F;58;1.46;High School
+3764;M;31;1.99;None
+3765;F;40;1.75;Master's
+3766;M;34;1.5;High School
+3767;F;42;1.52;Bachelor's
+3768;F;35;1.48;PhD
+3769;F;29;1.88;None
+3770;F;35;1.86;PhD
+3771;M;48;1.72;High School
+3772;F;43;1.56;Elementary
+3773;M;72;1.93;Master's
+3774;F;71;1.85;Bachelor's
+3775;F;57;1.63;Master's
+3776;F;74;1.88;Elementary
+3777;F;39;1.91;None
+3778;F;64;2.01;Bachelor's
+3779;M;65;1.81;PhD
+3780;M;19;1.76;Master's
+3781;F;76;1.76;PhD
+3782;M;34;1.71;None
+3783;F;67;1.86;Bachelor's
+3784;M;51;1.73;PhD
+3785;M;49;1.57;PhD
+3786;M;59;1.64;PhD
+3787;M;58;1.65;Bachelor's
+3788;F;64;1.89;Bachelor's
+3789;F;25;1.51;Bachelor's
+3790;F;32;1.66;High School
+3791;M;44;1.82;PhD
+3792;M;61;1.59;Bachelor's
+3793;M;33;1.8;Master's
+3794;F;68;2.01;Master's
+3795;M;61;1.52;Master's
+3796;M;42;1.55;Bachelor's
+3797;F;60;1.47;Master's
+3798;M;40;1.63;Bachelor's
+3799;M;25;1.83;PhD
+3800;F;33;1.75;High School
+3801;M;62;2;None
+3802;M;29;1.48;Elementary
+3803;F;36;1.78;Master's
+3804;F;27;1.74;Master's
+3805;M;38;1.82;Bachelor's
+3806;F;27;1.86;PhD
+3807;M;36;1.8;None
+3808;M;60;2.01;High School
+3809;F;36;1.76;Bachelor's
+3810;F;43;1.75;PhD
+3811;M;37;1.84;High School
+3812;M;18;1.46;Master's
+3813;F;67;1.49;High School
+3814;M;30;1.5;Bachelor's
+3815;M;61;1.46;PhD
+3816;M;56;1.57;Bachelor's
+3817;M;63;1.94;Bachelor's
+3818;F;70;1.99;Master's
+3819;F;54;1.88;PhD
+3820;F;21;1.7;None
+3821;M;63;1.55;PhD
+3822;M;67;1.68;Master's
+3823;M;22;1.95;High School
+3824;F;60;1.69;Elementary
+3825;F;24;1.88;Master's
+3826;F;44;1.74;Elementary
+3827;M;50;2;Bachelor's
+3828;M;67;1.65;None
+3829;F;22;1.63;PhD
+3830;M;32;1.87;None
+3831;M;47;1.48;Bachelor's
+3832;F;65;1.48;Master's
+3833;F;72;1.96;Master's
+3834;F;62;1.66;None
+3835;F;76;1.82;Elementary
+3836;M;54;1.89;None
+3837;F;73;1.56;Master's
+3838;M;31;1.79;Elementary
+3839;F;23;2;PhD
+3840;M;47;1.84;Master's
+3841;M;51;1.56;None
+3842;M;36;1.51;None
+3843;M;58;1.92;Bachelor's
+3844;F;75;1.75;PhD
+3845;F;47;1.98;High School
+3846;F;74;1.53;High School
+3847;F;23;1.68;High School
+3848;M;47;1.81;None
+3849;F;33;1.77;Master's
+3850;M;43;1.58;Elementary
+3851;F;30;1.82;None
+3852;M;21;1.78;Master's
+3853;F;25;1.95;PhD
+3854;M;39;1.59;Master's
+3855;M;31;1.86;Master's
+3856;M;49;1.83;None
+3857;F;62;1.48;Elementary
+3858;F;30;1.91;None
+3859;F;59;1.93;High School
+3860;M;43;1.62;Master's
+3861;F;25;1.76;Elementary
+3862;F;22;1.51;Master's
+3863;F;50;1.88;None
+3864;M;24;1.65;PhD
+3865;F;50;1.82;Elementary
+3866;F;23;1.74;None
+3867;M;42;1.68;PhD
+3868;M;29;1.96;Bachelor's
+3869;F;45;1.48;Elementary
+3870;M;46;1.85;Bachelor's
+3871;F;48;1.95;PhD
+3872;M;38;1.56;High School
+3873;M;35;1.67;None
+3874;F;38;1.73;Bachelor's
+3875;F;26;1.56;None
+3876;M;72;1.74;None
+3877;M;34;1.51;PhD
+3878;F;73;1.57;Bachelor's
+3879;F;37;1.72;Bachelor's
+3880;F;55;1.94;None
+3881;F;35;1.87;None
+3882;F;29;1.83;Elementary
+3883;F;59;1.74;Elementary
+3884;M;63;1.48;High School
+3885;M;69;1.75;None
+3886;M;39;1.77;High School
+3887;M;73;1.63;Bachelor's
+3888;M;63;1.99;Elementary
+3889;M;54;1.59;Bachelor's
+3890;M;54;1.9;None
+3891;M;21;1.6;High School
+3892;F;20;1.92;None
+3893;M;35;1.57;Elementary
+3894;M;43;1.88;Elementary
+3895;M;25;1.64;None
+3896;M;69;1.62;Bachelor's
+3897;F;44;1.61;Bachelor's
+3898;F;55;1.88;Master's
+3899;M;67;1.79;High School
+3900;F;19;1.55;Elementary
+3901;F;72;1.5;High School
+3902;M;18;2.01;PhD
+3903;F;76;1.55;None
+3904;M;21;1.94;Elementary
+3905;M;40;1.98;Bachelor's
+3906;M;46;1.93;High School
+3907;M;57;1.57;PhD
+3908;M;29;1.97;Elementary
+3909;F;45;1.68;Elementary
+3910;M;32;1.58;Master's
+3911;M;45;1.77;High School
+3912;F;59;1.94;Master's
+3913;F;37;1.86;High School
+3914;M;69;1.9;None
+3915;F;45;1.73;Elementary
+3916;F;56;1.79;PhD
+3917;F;42;1.72;None
+3918;M;26;1.99;Master's
+3919;M;65;1.49;PhD
+3920;M;67;1.53;Master's
+3921;M;35;1.8;High School
+3922;F;47;1.62;Master's
+3923;F;21;1.78;Master's
+3924;M;26;1.79;High School
+3925;F;61;1.88;Master's
+3926;M;31;1.95;PhD
+3927;F;50;1.93;Bachelor's
+3928;F;54;1.89;Bachelor's
+3929;F;28;1.9;Bachelor's
+3930;F;47;1.89;Bachelor's
+3931;F;66;1.95;Elementary
+3932;M;34;1.87;Elementary
+3933;M;70;2;High School
+3934;F;46;1.81;Elementary
+3935;M;49;1.89;Master's
+3936;M;64;1.67;Bachelor's
+3937;F;62;1.65;Master's
+3938;F;41;1.55;High School
+3939;F;23;1.62;Bachelor's
+3940;F;52;1.57;High School
+3941;M;48;1.79;Master's
+3942;F;35;1.95;High School
+3943;F;20;1.53;Elementary
+3944;F;74;1.58;Bachelor's
+3945;F;65;1.83;Bachelor's
+3946;M;62;1.98;None
+3947;M;40;1.97;Bachelor's
+3948;F;20;1.87;Master's
+3949;M;33;1.82;Master's
+3950;M;60;1.99;Master's
+3951;F;66;1.72;High School
+3952;M;41;1.51;Elementary
+3953;M;21;1.58;High School
+3954;F;37;1.76;High School
+3955;M;60;1.78;Bachelor's
+3956;M;74;1.49;Bachelor's
+3957;M;23;1.95;None
+3958;M;58;1.54;Master's
+3959;M;75;1.59;PhD
+3960;M;30;2;Bachelor's
+3961;M;60;1.65;High School
+3962;M;53;1.65;PhD
+3963;M;28;1.85;PhD
+3964;M;48;1.8;Master's
+3965;F;74;1.92;None
+3966;F;65;1.7;None
+3967;M;69;1.85;Elementary
+3968;F;70;1.54;High School
+3969;M;51;1.82;None
+3970;F;71;1.58;High School
+3971;M;70;1.81;Bachelor's
+3972;M;51;1.7;High School
+3973;F;39;1.98;Master's
+3974;M;75;1.84;Master's
+3975;M;50;1.81;High School
+3976;M;60;1.59;PhD
+3977;F;32;1.59;Master's
+3978;M;48;1.86;Master's
+3979;M;57;1.54;High School
+3980;F;59;1.51;Bachelor's
+3981;F;47;1.5;None
+3982;F;66;1.62;None
+3983;M;59;1.87;Master's
+3984;F;24;1.88;Bachelor's
+3985;F;56;1.59;PhD
+3986;F;69;1.6;PhD
+3987;F;41;1.73;Master's
+3988;M;34;1.88;Elementary
+3989;F;65;1.64;Bachelor's
+3990;F;51;1.76;None
+3991;M;41;1.96;Bachelor's
+3992;M;41;1.9;High School
+3993;M;27;1.9;Bachelor's
+3994;M;58;1.65;High School
+3995;F;59;1.79;PhD
+3996;M;37;1.98;High School
+3997;M;27;1.68;PhD
+3998;M;63;1.65;PhD
+3999;M;34;1.66;PhD
+4000;M;73;1.98;High School
+4001;F;54;1.54;PhD
+4002;F;36;1.84;High School
+4003;F;46;1.81;Bachelor's
+4004;M;62;1.98;Elementary
+4005;M;32;1.78;Elementary
+4006;F;55;1.51;None
+4007;M;45;1.84;Elementary
+4008;M;71;1.79;Master's
+4009;M;19;1.94;Master's
+4010;F;56;1.49;Elementary
+4011;F;34;1.54;None
+4012;F;56;1.49;Master's
+4013;F;43;1.49;PhD
+4014;F;64;1.65;Master's
+4015;F;25;1.83;Bachelor's
+4016;M;66;1.59;Master's
+4017;F;58;1.49;Master's
+4018;F;55;1.9;None
+4019;M;21;1.9;PhD
+4020;M;51;1.5;High School
+4021;M;67;1.81;Bachelor's
+4022;F;42;1.7;High School
+4023;F;46;1.65;None
+4024;M;46;1.76;Elementary
+4025;M;22;1.91;High School
+4026;F;76;1.66;None
+4027;M;42;1.63;PhD
+4028;F;28;1.48;High School
+4029;M;29;1.96;Elementary
+4030;M;53;1.58;Master's
+4031;M;24;1.75;None
+4032;M;36;1.97;PhD
+4033;F;29;1.87;None
+4034;F;31;1.98;None
+4035;F;35;1.96;None
+4036;M;26;1.92;None
+4037;F;28;1.5;Elementary
+4038;F;60;1.61;PhD
+4039;M;19;1.59;None
+4040;M;66;1.99;Master's
+4041;F;39;1.76;High School
+4042;F;61;1.52;Bachelor's
+4043;M;57;1.55;PhD
+4044;F;23;1.54;Bachelor's
+4045;M;34;1.51;PhD
+4046;F;61;1.65;PhD
+4047;M;46;1.97;Bachelor's
+4048;F;47;1.97;Bachelor's
+4049;M;27;1.98;Master's
+4050;M;45;1.61;PhD
+4051;F;37;1.95;Elementary
+4052;M;39;1.53;Master's
+4053;M;68;1.62;Elementary
+4054;M;23;1.78;High School
+4055;M;48;1.73;Bachelor's
+4056;M;18;1.46;Bachelor's
+4057;F;62;1.63;High School
+4058;M;36;2.01;PhD
+4059;F;53;1.78;None
+4060;F;33;1.89;PhD
+4061;F;21;1.66;Bachelor's
+4062;F;72;1.59;PhD
+4063;F;33;1.52;PhD
+4064;M;45;1.95;PhD
+4065;F;70;1.82;PhD
+4066;M;59;1.9;High School
+4067;M;73;1.47;Master's
+4068;M;60;1.77;None
+4069;M;25;1.74;High School
+4070;F;38;1.51;Bachelor's
+4071;M;45;1.6;Master's
+4072;M;23;1.49;Master's
+4073;M;48;2;None
+4074;F;62;1.72;High School
+4075;F;66;1.63;Master's
+4076;M;42;1.53;None
+4077;M;36;1.62;High School
+4078;M;58;1.49;Elementary
+4079;M;76;1.98;None
+4080;F;74;2;High School
+4081;M;26;1.89;Bachelor's
+4082;F;75;1.75;High School
+4083;F;72;1.7;Master's
+4084;M;35;1.76;Bachelor's
+4085;M;61;1.71;None
+4086;M;33;1.46;None
+4087;F;69;1.7;PhD
+4088;F;30;1.62;Bachelor's
+4089;F;54;1.99;Master's
+4090;F;56;1.87;Master's
+4091;M;33;2;Master's
+4092;M;42;1.78;PhD
+4093;F;30;1.86;Master's
+4094;F;29;1.81;None
+4095;M;37;1.93;Bachelor's
+4096;F;33;1.51;Bachelor's
+4097;F;62;1.65;Elementary
+4098;F;51;1.72;Bachelor's
+4099;M;57;1.96;Bachelor's
+4100;M;52;1.51;High School
+4101;F;75;1.7;Bachelor's
+4102;F;20;1.72;None
+4103;F;30;1.51;Master's
+4104;M;50;1.58;PhD
+4105;M;38;1.59;Elementary
+4106;M;32;1.85;PhD
+4107;M;27;1.98;Elementary
+4108;M;25;1.51;None
+4109;M;32;1.86;Elementary
+4110;M;29;1.84;None
+4111;M;40;1.71;None
+4112;M;18;1.66;None
+4113;F;67;1.97;None
+4114;M;63;1.99;PhD
+4115;M;47;1.78;High School
+4116;M;40;1.62;None
+4117;F;73;1.54;Bachelor's
+4118;M;18;1.63;None
+4119;M;38;1.94;High School
+4120;M;54;1.59;PhD
+4121;M;26;1.88;None
+4122;F;50;2;High School
+4123;F;47;1.62;Bachelor's
+4124;M;69;1.99;None
+4125;M;42;1.89;Elementary
+4126;F;43;1.58;None
+4127;F;50;1.55;Master's
+4128;M;66;1.85;High School
+4129;M;30;1.84;Master's
+4130;M;64;1.8;High School
+4131;M;54;1.6;High School
+4132;F;70;1.58;PhD
+4133;M;48;1.46;Master's
+4134;M;64;1.7;Master's
+4135;F;68;1.55;Elementary
+4136;F;65;1.89;PhD
+4137;M;52;1.99;Master's
+4138;M;44;1.52;High School
+4139;F;47;1.61;None
+4140;F;56;1.88;High School
+4141;F;63;1.61;PhD
+4142;M;67;1.93;Bachelor's
+4143;F;59;1.83;None
+4144;M;38;1.98;Elementary
+4145;M;52;1.7;Bachelor's
+4146;F;46;1.8;High School
+4147;F;26;1.96;Master's
+4148;F;22;1.84;None
+4149;F;37;1.96;PhD
+4150;M;46;1.87;Master's
+4151;M;50;1.46;Master's
+4152;F;23;1.9;Elementary
+4153;M;69;1.95;High School
+4154;F;58;1.94;Elementary
+4155;F;52;1.62;High School
+4156;M;52;1.92;High School
+4157;F;74;1.85;None
+4158;F;41;1.51;Bachelor's
+4159;M;71;1.74;High School
+4160;M;32;1.55;PhD
+4161;F;76;1.79;None
+4162;F;35;1.53;PhD
+4163;F;57;1.78;High School
+4164;M;19;1.87;Bachelor's
+4165;M;18;1.8;High School
+4166;M;34;1.77;High School
+4167;M;25;1.52;High School
+4168;M;34;1.5;Elementary
+4169;M;64;1.78;Master's
+4170;F;63;2.01;PhD
+4171;M;18;1.8;Bachelor's
+4172;F;25;1.55;PhD
+4173;F;44;1.52;PhD
+4174;F;22;2;Master's
+4175;F;29;1.89;Elementary
+4176;F;38;1.85;Bachelor's
+4177;M;22;1.63;PhD
+4178;F;35;1.52;PhD
+4179;M;30;1.57;Elementary
+4180;F;35;1.78;High School
+4181;M;74;1.86;PhD
+4182;M;40;1.74;None
+4183;M;58;1.46;High School
+4184;F;56;1.77;PhD
+4185;M;34;1.81;Bachelor's
+4186;M;45;1.97;None
+4187;F;63;1.54;Elementary
+4188;F;20;1.67;Bachelor's
+4189;F;44;1.54;None
+4190;F;51;1.64;Master's
+4191;F;35;1.65;Elementary
+4192;M;67;1.58;PhD
+4193;M;67;1.59;Elementary
+4194;F;48;1.6;High School
+4195;F;32;1.63;Master's
+4196;M;48;1.96;Bachelor's
+4197;M;67;1.89;High School
+4198;M;40;1.48;Master's
+4199;F;45;1.59;None
+4200;M;21;1.49;Elementary
+4201;F;32;1.79;Bachelor's
+4202;F;49;1.46;PhD
+4203;M;52;1.97;High School
+4204;F;73;1.79;Master's
+4205;F;55;1.94;PhD
+4206;F;44;1.85;Elementary
+4207;F;67;1.88;None
+4208;F;41;1.61;High School
+4209;F;65;1.83;PhD
+4210;M;66;1.76;Bachelor's
+4211;F;53;1.86;Elementary
+4212;M;75;1.71;None
+4213;M;30;1.81;Bachelor's
+4214;M;68;1.96;None
+4215;M;29;1.96;Elementary
+4216;M;23;1.97;Master's
+4217;F;41;1.73;Bachelor's
+4218;F;21;1.86;PhD
+4219;F;18;1.67;None
+4220;F;43;1.61;High School
+4221;M;29;1.68;High School
+4222;M;22;1.89;Bachelor's
+4223;M;64;1.98;Elementary
+4224;F;47;1.7;Master's
+4225;M;68;1.9;Master's
+4226;F;67;1.57;None
+4227;M;19;1.52;Master's
+4228;F;60;1.94;Bachelor's
+4229;F;48;1.99;Bachelor's
+4230;F;67;1.66;Bachelor's
+4231;F;52;1.96;High School
+4232;M;68;1.65;PhD
+4233;F;64;1.54;High School
+4234;M;20;1.46;Bachelor's
+4235;M;42;1.51;None
+4236;M;30;1.46;High School
+4237;F;54;1.6;None
+4238;F;54;1.56;PhD
+4239;M;28;1.92;Elementary
+4240;F;72;1.65;PhD
+4241;F;54;1.61;Bachelor's
+4242;F;25;1.61;Master's
+4243;M;50;1.75;Elementary
+4244;M;60;1.66;PhD
+4245;M;67;1.89;High School
+4246;F;27;1.53;Elementary
+4247;M;49;1.71;None
+4248;F;23;1.67;Elementary
+4249;F;60;1.87;Elementary
+4250;F;37;1.82;Bachelor's
+4251;M;68;1.5;None
+4252;F;57;1.79;Elementary
+4253;F;33;1.81;Master's
+4254;M;23;1.97;None
+4255;M;76;1.66;PhD
+4256;F;54;1.97;Master's
+4257;F;42;1.92;Bachelor's
+4258;M;59;1.86;None
+4259;M;76;1.46;Master's
+4260;F;46;1.98;None
+4261;F;61;1.55;High School
+4262;F;23;1.77;Elementary
+4263;F;52;1.92;Master's
+4264;F;65;1.52;Master's
+4265;M;28;2.01;Bachelor's
+4266;M;50;1.91;None
+4267;F;61;1.54;PhD
+4268;F;43;1.55;Elementary
+4269;F;53;1.84;Master's
+4270;F;59;1.47;High School
+4271;M;41;1.58;Elementary
+4272;F;56;1.54;PhD
+4273;M;34;1.85;Elementary
+4274;M;64;1.78;Bachelor's
+4275;M;66;1.95;PhD
+4276;F;33;1.55;Bachelor's
+4277;F;18;1.49;PhD
+4278;M;63;1.9;High School
+4279;M;37;1.73;Elementary
+4280;F;65;1.9;Master's
+4281;F;64;1.96;Master's
+4282;F;75;1.75;Elementary
+4283;M;30;1.65;None
+4284;F;64;1.52;Elementary
+4285;F;23;1.99;Master's
+4286;F;48;1.66;Bachelor's
+4287;F;66;1.72;None
+4288;F;52;1.48;PhD
+4289;M;18;1.6;High School
+4290;F;23;1.5;None
+4291;M;49;1.58;Master's
+4292;F;54;1.98;Bachelor's
+4293;M;51;1.97;High School
+4294;F;39;1.47;Elementary
+4295;M;34;1.59;PhD
+4296;F;52;1.92;Bachelor's
+4297;F;51;1.66;High School
+4298;F;46;1.68;Bachelor's
+4299;F;34;1.66;None
+4300;M;67;1.86;Master's
+4301;M;50;1.95;Bachelor's
+4302;M;35;1.63;Elementary
+4303;F;22;1.85;Master's
+4304;F;62;1.52;Elementary
+4305;F;57;1.93;Elementary
+4306;M;37;1.99;Bachelor's
+4307;M;39;1.54;Master's
+4308;F;73;1.95;High School
+4309;F;49;2.01;Bachelor's
+4310;M;71;1.92;Elementary
+4311;M;76;1.86;None
+4312;F;62;1.57;High School
+4313;F;64;1.63;PhD
+4314;M;58;1.63;Bachelor's
+4315;F;33;1.63;Elementary
+4316;M;67;1.91;PhD
+4317;M;34;1.53;None
+4318;M;39;1.72;Master's
+4319;M;60;1.72;Master's
+4320;F;39;1.63;High School
+4321;F;44;1.98;None
+4322;M;56;1.95;Master's
+4323;M;70;1.9;Master's
+4324;F;60;1.99;Bachelor's
+4325;F;28;1.8;Bachelor's
+4326;F;73;1.92;High School
+4327;M;51;1.71;Master's
+4328;M;54;1.89;High School
+4329;F;76;1.56;Bachelor's
+4330;F;47;1.79;High School
+4331;F;45;1.81;None
+4332;M;71;1.95;None
+4333;M;33;1.62;PhD
+4334;M;61;1.78;Bachelor's
+4335;F;72;2;PhD
+4336;F;25;1.8;High School
+4337;M;48;1.92;None
+4338;M;52;1.82;High School
+4339;M;49;1.77;Bachelor's
+4340;F;55;1.85;Elementary
+4341;F;23;1.49;Master's
+4342;M;57;1.81;Master's
+4343;M;60;1.86;Bachelor's
+4344;M;41;1.49;None
+4345;M;39;1.62;None
+4346;M;50;1.51;None
+4347;F;42;1.63;None
+4348;F;32;1.83;None
+4349;M;59;1.85;Master's
+4350;M;49;1.61;Master's
+4351;M;54;1.48;Bachelor's
+4352;M;76;1.87;PhD
+4353;F;25;1.5;Master's
+4354;F;45;1.75;PhD
+4355;F;62;1.53;PhD
+4356;M;23;1.64;Elementary
+4357;F;32;1.63;Master's
+4358;F;27;1.55;None
+4359;M;65;1.55;Bachelor's
+4360;M;21;1.96;Bachelor's
+4361;F;31;1.83;Bachelor's
+4362;M;28;1.99;Elementary
+4363;F;25;1.85;High School
+4364;F;19;1.89;None
+4365;F;35;1.65;PhD
+4366;M;54;1.62;High School
+4367;M;76;1.85;PhD
+4368;F;37;1.75;Bachelor's
+4369;M;52;1.64;PhD
+4370;M;20;1.74;Elementary
+4371;F;35;1.46;Bachelor's
+4372;F;32;1.94;Master's
+4373;F;29;1.97;None
+4374;M;30;1.88;Master's
+4375;M;56;1.66;Master's
+4376;F;64;1.59;None
+4377;F;73;1.68;Elementary
+4378;F;75;1.61;PhD
+4379;M;68;1.99;Elementary
+4380;M;68;1.89;PhD
+4381;M;42;1.55;Master's
+4382;F;40;1.65;Elementary
+4383;M;63;1.89;Master's
+4384;M;25;1.7;Elementary
+4385;F;43;1.88;Elementary
+4386;F;30;1.83;Elementary
+4387;M;72;1.95;Bachelor's
+4388;M;73;1.78;PhD
+4389;F;62;1.71;Bachelor's
+4390;F;50;1.84;Elementary
+4391;M;66;1.57;High School
+4392;M;18;1.57;PhD
+4393;F;44;1.53;Bachelor's
+4394;F;56;1.92;Master's
+4395;F;74;1.67;High School
+4396;M;69;1.6;Bachelor's
+4397;F;59;1.91;PhD
+4398;M;54;1.86;None
+4399;M;40;1.72;None
+4400;F;65;1.55;PhD
+4401;F;35;2;None
+4402;F;30;1.98;Bachelor's
+4403;F;42;1.57;Elementary
+4404;F;51;1.73;None
+4405;F;59;1.56;PhD
+4406;F;44;1.62;High School
+4407;F;35;1.56;PhD
+4408;F;72;1.79;Bachelor's
+4409;M;43;1.8;Master's
+4410;F;51;1.72;None
+4411;M;55;2;Elementary
+4412;M;71;1.97;PhD
+4413;F;50;1.48;PhD
+4414;F;67;1.53;Master's
+4415;F;56;1.92;Bachelor's
+4416;F;76;1.93;Bachelor's
+4417;F;58;1.88;Master's
+4418;M;73;1.81;None
+4419;M;59;1.98;None
+4420;F;35;1.73;Master's
+4421;M;60;1.9;Bachelor's
+4422;M;21;1.81;PhD
+4423;M;54;1.75;Elementary
+4424;M;65;1.74;Master's
+4425;M;71;1.47;Bachelor's
+4426;F;56;1.82;Bachelor's
+4427;M;62;1.93;Elementary
+4428;M;19;1.53;None
+4429;M;21;1.92;Elementary
+4430;M;70;1.46;PhD
+4431;F;53;1.7;Master's
+4432;M;59;2.01;Master's
+4433;M;62;1.89;PhD
+4434;F;75;1.77;Bachelor's
+4435;F;40;2.01;Bachelor's
+4436;M;38;1.55;Master's
+4437;M;50;1.96;PhD
+4438;F;68;1.91;Bachelor's
+4439;F;53;1.61;PhD
+4440;M;52;1.52;Master's
+4441;M;66;1.74;Elementary
+4442;M;62;1.47;Bachelor's
+4443;F;50;1.59;Bachelor's
+4444;F;69;1.84;PhD
+4445;M;70;1.68;Bachelor's
+4446;F;38;1.75;Bachelor's
+4447;F;48;1.68;High School
+4448;M;69;1.85;Bachelor's
+4449;M;57;1.83;Elementary
+4450;F;56;1.48;Elementary
+4451;M;32;1.78;Master's
+4452;M;58;1.6;Elementary
+4453;M;76;1.63;Bachelor's
+4454;F;30;1.59;Master's
+4455;M;57;1.68;Elementary
+4456;F;33;1.87;Master's
+4457;F;55;1.52;High School
+4458;F;53;1.82;PhD
+4459;F;45;1.98;Elementary
+4460;F;42;1.78;High School
+4461;M;48;1.57;Bachelor's
+4462;F;26;1.74;Bachelor's
+4463;M;22;1.87;Master's
+4464;M;40;1.74;None
+4465;M;76;1.69;None
+4466;F;72;1.75;Elementary
+4467;F;67;2.01;Master's
+4468;M;51;1.68;None
+4469;M;67;1.71;Master's
+4470;M;64;1.98;High School
+4471;M;18;1.61;PhD
+4472;M;24;1.76;PhD
+4473;F;50;1.87;High School
+4474;M;74;1.98;Elementary
+4475;F;24;1.76;PhD
+4476;F;53;1.49;High School
+4477;F;37;1.72;PhD
+4478;M;61;1.75;Elementary
+4479;F;51;2;PhD
+4480;M;70;1.72;None
+4481;M;56;1.65;PhD
+4482;F;70;1.77;Master's
+4483;F;21;1.48;None
+4484;F;66;1.9;PhD
+4485;F;76;1.89;None
+4486;F;38;1.76;Bachelor's
+4487;M;56;1.8;High School
+4488;F;24;1.6;PhD
+4489;M;63;1.59;High School
+4490;M;74;1.51;None
+4491;F;61;2;None
+4492;F;68;1.76;PhD
+4493;F;47;1.71;PhD
+4494;F;76;1.9;None
+4495;M;18;1.7;High School
+4496;M;71;1.97;High School
+4497;F;59;1.86;PhD
+4498;F;61;1.69;None
+4499;F;40;1.82;None
+4500;F;60;1.94;PhD
+4501;F;43;2;Bachelor's
+4502;F;66;1.6;High School
+4503;M;55;1.91;Elementary
+4504;F;20;1.71;Master's
+4505;F;34;1.71;None
+4506;M;60;1.57;PhD
+4507;M;46;1.94;Master's
+4508;M;47;1.53;Elementary
+4509;F;20;1.79;High School
+4510;F;70;1.96;None
+4511;M;64;1.68;None
+4512;M;27;1.9;Elementary
+4513;F;72;1.78;Bachelor's
+4514;F;23;1.92;Master's
+4515;M;38;1.48;Bachelor's
+4516;M;70;1.78;High School
+4517;F;39;1.54;High School
+4518;F;63;1.8;Elementary
+4519;F;53;1.96;Bachelor's
+4520;F;18;1.59;Master's
+4521;M;56;1.85;High School
+4522;M;22;1.97;High School
+4523;F;40;1.46;PhD
+4524;M;29;1.78;Elementary
+4525;F;54;1.52;PhD
+4526;M;28;1.8;None
+4527;F;23;1.88;Bachelor's
+4528;M;62;1.91;PhD
+4529;M;56;1.76;PhD
+4530;M;46;1.8;PhD
+4531;F;22;1.6;Master's
+4532;M;72;1.64;Master's
+4533;M;72;1.71;Elementary
+4534;F;46;1.54;Master's
+4535;M;68;1.8;Bachelor's
+4536;M;35;1.91;None
+4537;F;19;1.7;Elementary
+4538;M;63;1.56;Elementary
+4539;F;73;1.59;PhD
+4540;F;39;1.96;Bachelor's
+4541;F;75;1.52;None
+4542;F;69;1.6;High School
+4543;M;69;1.99;PhD
+4544;M;58;1.82;High School
+4545;M;31;1.95;Master's
+4546;F;26;1.76;Master's
+4547;F;34;1.94;Bachelor's
+4548;M;76;1.5;Master's
+4549;M;66;1.7;None
+4550;M;25;1.52;None
+4551;F;20;1.82;Master's
+4552;M;69;1.77;Bachelor's
+4553;F;67;1.82;Elementary
+4554;F;61;1.77;Master's
+4555;F;49;1.75;Elementary
+4556;M;36;1.56;Elementary
+4557;F;43;1.91;Bachelor's
+4558;F;33;1.77;Master's
+4559;F;75;1.57;Master's
+4560;F;46;2;Bachelor's
+4561;F;73;1.83;Elementary
+4562;F;64;1.68;Bachelor's
+4563;M;34;2;None
+4564;F;43;1.72;High School
+4565;M;21;1.56;Elementary
+4566;M;43;1.82;PhD
+4567;F;25;1.58;None
+4568;M;53;1.91;PhD
+4569;F;29;1.61;High School
+4570;M;31;1.98;High School
+4571;M;21;1.52;PhD
+4572;F;23;1.69;Elementary
+4573;F;50;1.61;Master's
+4574;F;45;1.82;Elementary
+4575;M;23;1.57;Bachelor's
+4576;M;34;1.84;Bachelor's
+4577;F;34;1.77;PhD
+4578;M;37;1.66;Master's
+4579;F;70;1.57;Master's
+4580;F;20;1.67;Elementary
+4581;F;73;1.92;Elementary
+4582;M;18;1.63;Master's
+4583;F;42;1.66;PhD
+4584;M;32;1.93;PhD
+4585;M;63;1.91;PhD
+4586;F;27;1.8;Master's
+4587;F;60;1.81;PhD
+4588;M;33;1.73;Bachelor's
+4589;M;65;1.63;Master's
+4590;M;57;1.7;Elementary
+4591;F;25;1.82;None
+4592;F;55;2.01;PhD
+4593;F;61;1.54;Bachelor's
+4594;F;52;1.77;PhD
+4595;F;76;1.69;None
+4596;M;74;1.9;Bachelor's
+4597;M;59;1.59;Bachelor's
+4598;F;41;1.52;PhD
+4599;M;65;2;High School
+4600;F;54;1.97;Bachelor's
+4601;M;22;1.97;Bachelor's
+4602;M;61;1.68;Elementary
+4603;F;54;1.98;Elementary
+4604;M;41;1.89;Master's
+4605;F;36;1.93;PhD
+4606;M;51;1.84;None
+4607;M;51;1.49;None
+4608;F;20;1.48;Elementary
+4609;F;74;1.88;Elementary
+4610;F;21;1.72;Master's
+4611;F;73;1.56;Bachelor's
+4612;M;32;1.8;Elementary
+4613;F;61;1.57;PhD
+4614;M;24;1.87;High School
+4615;F;50;1.99;PhD
+4616;M;58;1.66;PhD
+4617;F;57;1.77;High School
+4618;M;23;1.85;PhD
+4619;M;24;1.83;Bachelor's
+4620;F;30;1.78;None
+4621;M;41;1.47;Elementary
+4622;F;32;1.91;PhD
+4623;F;32;2;High School
+4624;M;58;1.84;Elementary
+4625;M;38;1.77;Bachelor's
+4626;M;24;1.56;High School
+4627;M;34;1.84;PhD
+4628;F;41;1.9;High School
+4629;M;62;1.78;High School
+4630;F;34;1.59;Bachelor's
+4631;F;61;1.68;Master's
+4632;F;31;1.92;Bachelor's
+4633;M;58;1.47;High School
+4634;F;49;1.82;Elementary
+4635;M;65;1.95;PhD
+4636;M;56;1.9;None
+4637;M;61;1.51;Master's
+4638;F;75;1.75;Master's
+4639;M;32;1.98;PhD
+4640;M;21;1.89;Bachelor's
+4641;F;18;1.6;Master's
+4642;F;48;1.65;Bachelor's
+4643;F;27;2;High School
+4644;F;60;1.51;None
+4645;M;74;2.01;High School
+4646;M;19;1.53;Elementary
+4647;M;27;1.53;PhD
+4648;F;59;1.77;Master's
+4649;M;74;1.69;High School
+4650;F;54;1.91;Bachelor's
+4651;F;21;1.91;Master's
+4652;F;44;1.66;Elementary
+4653;M;63;1.95;Elementary
+4654;M;56;1.88;High School
+4655;F;22;1.62;None
+4656;F;45;1.62;Elementary
+4657;F;25;1.51;None
+4658;M;71;1.82;Master's
+4659;F;19;1.85;Bachelor's
+4660;M;63;1.98;Master's
+4661;F;74;1.82;High School
+4662;F;55;1.63;None
+4663;M;68;1.93;Master's
+4664;F;73;1.96;PhD
+4665;F;70;1.53;None
+4666;M;72;1.77;Elementary
+4667;F;51;1.54;None
+4668;F;61;1.72;Bachelor's
+4669;F;72;1.82;Master's
+4670;M;38;1.51;None
+4671;M;24;1.52;High School
+4672;F;45;1.74;Bachelor's
+4673;M;29;1.84;Elementary
+4674;F;65;1.51;PhD
+4675;F;66;1.49;Bachelor's
+4676;M;74;1.66;None
+4677;M;75;1.49;High School
+4678;F;26;1.76;Master's
+4679;M;64;1.77;Bachelor's
+4680;M;40;1.58;None
+4681;F;18;1.57;Bachelor's
+4682;M;58;1.67;Bachelor's
+4683;M;76;1.72;High School
+4684;F;18;1.5;Elementary
+4685;F;64;1.75;Bachelor's
+4686;F;38;1.72;Elementary
+4687;M;27;1.49;High School
+4688;M;32;1.54;High School
+4689;F;22;1.87;Elementary
+4690;M;31;1.87;Master's
+4691;F;76;1.79;Bachelor's
+4692;M;47;1.61;PhD
+4693;M;66;1.48;PhD
+4694;F;50;1.95;Master's
+4695;F;46;1.72;Master's
+4696;M;44;1.74;None
+4697;F;24;1.6;PhD
+4698;F;42;1.46;Bachelor's
+4699;M;32;1.82;Elementary
+4700;M;20;1.76;High School
+4701;M;72;2;None
+4702;F;59;1.93;Master's
+4703;M;26;1.96;Master's
+4704;M;47;1.86;Elementary
+4705;F;48;1.96;PhD
+4706;F;34;1.55;None
+4707;M;24;1.69;Elementary
+4708;F;74;1.93;PhD
+4709;F;37;1.75;PhD
+4710;M;46;1.97;PhD
+4711;F;69;1.96;Elementary
+4712;F;41;1.8;Elementary
+4713;M;69;1.89;Bachelor's
+4714;F;30;1.64;PhD
+4715;M;20;1.76;Bachelor's
+4716;F;50;1.71;Bachelor's
+4717;M;67;1.95;Bachelor's
+4718;M;36;1.69;Bachelor's
+4719;F;68;1.76;Bachelor's
+4720;M;27;1.98;Bachelor's
+4721;F;51;1.88;High School
+4722;M;55;1.55;Elementary
+4723;F;22;2;Master's
+4724;M;39;2.01;Elementary
+4725;F;68;1.78;High School
+4726;M;29;1.86;None
+4727;F;52;1.55;Elementary
+4728;M;67;1.66;Bachelor's
+4729;M;41;1.68;None
+4730;M;41;1.49;None
+4731;M;52;1.86;None
+4732;F;33;1.92;None
+4733;M;24;1.56;Bachelor's
+4734;F;35;1.81;Bachelor's
+4735;M;70;1.73;Master's
+4736;F;52;1.59;Bachelor's
+4737;M;73;1.56;PhD
+4738;M;68;1.76;Master's
+4739;F;76;1.46;Elementary
+4740;F;34;1.86;Bachelor's
+4741;F;27;1.88;Elementary
+4742;M;33;1.62;None
+4743;F;39;1.46;None
+4744;M;41;1.5;Bachelor's
+4745;F;42;1.87;PhD
+4746;M;41;1.87;Bachelor's
+4747;F;38;2.01;PhD
+4748;F;22;1.7;None
+4749;F;54;1.52;Elementary
+4750;M;73;1.96;Bachelor's
+4751;M;56;1.87;Bachelor's
+4752;F;49;1.61;High School
+4753;F;76;1.95;High School
+4754;M;28;1.87;PhD
+4755;F;33;2.01;PhD
+4756;F;19;1.47;Master's
+4757;F;47;1.93;None
+4758;F;54;1.94;High School
+4759;F;52;1.69;High School
+4760;M;42;1.53;None
+4761;M;58;1.53;High School
+4762;M;26;1.54;PhD
+4763;F;66;1.7;None
+4764;M;19;1.87;Elementary
+4765;F;45;1.89;Bachelor's
+4766;M;35;1.97;High School
+4767;M;47;1.79;Master's
+4768;M;32;1.79;None
+4769;F;28;1.51;Elementary
+4770;M;70;1.46;Bachelor's
+4771;F;25;1.54;Elementary
+4772;F;31;1.65;Elementary
+4773;F;64;1.74;PhD
+4774;M;41;1.79;High School
+4775;F;57;1.51;Elementary
+4776;F;39;1.67;None
+4777;M;45;1.76;Bachelor's
+4778;F;26;1.67;Elementary
+4779;M;68;1.49;PhD
+4780;F;66;1.61;Elementary
+4781;M;38;1.86;PhD
+4782;M;56;1.92;None
+4783;M;64;1.8;PhD
+4784;F;38;1.48;Bachelor's
+4785;F;35;2.01;High School
+4786;F;40;1.7;Elementary
+4787;M;31;1.6;High School
+4788;M;50;2;High School
+4789;F;53;1.98;High School
+4790;M;66;1.69;High School
+4791;F;31;1.9;None
+4792;F;29;1.71;None
+4793;F;44;1.47;High School
+4794;M;34;2.01;Master's
+4795;F;39;1.93;Master's
+4796;F;47;1.94;Elementary
+4797;M;64;1.53;High School
+4798;F;59;2;None
+4799;F;73;1.75;High School
+4800;M;75;1.88;Elementary
+4801;M;37;1.72;None
+4802;F;62;1.79;Bachelor's
+4803;F;33;1.8;Bachelor's
+4804;M;73;1.46;None
+4805;F;42;1.89;High School
+4806;F;66;1.92;PhD
+4807;F;24;1.59;None
+4808;M;32;1.55;Bachelor's
+4809;M;50;1.78;PhD
+4810;F;67;1.87;Bachelor's
+4811;F;60;1.64;None
+4812;F;50;1.76;None
+4813;F;18;1.9;Bachelor's
+4814;M;48;1.55;None
+4815;F;71;1.84;Master's
+4816;M;37;1.52;Bachelor's
+4817;M;40;1.49;None
+4818;F;66;1.61;Bachelor's
+4819;F;48;1.72;Bachelor's
+4820;M;52;1.85;Master's
+4821;F;66;1.75;High School
+4822;F;61;1.86;Bachelor's
+4823;M;74;1.61;Elementary
+4824;F;42;1.86;High School
+4825;F;38;1.73;Bachelor's
+4826;F;32;1.8;Elementary
+4827;F;62;1.82;PhD
+4828;F;33;1.5;Bachelor's
+4829;M;37;1.46;Master's
+4830;F;64;1.98;High School
+4831;M;27;1.66;PhD
+4832;F;51;1.73;Master's
+4833;M;37;1.7;Elementary
+4834;F;59;1.64;None
+4835;M;19;1.52;Bachelor's
+4836;M;42;1.65;Master's
+4837;F;37;1.84;Master's
+4838;M;76;1.56;Elementary
+4839;F;56;1.6;Bachelor's
+4840;M;53;1.91;High School
+4841;M;61;1.5;Bachelor's
+4842;F;75;1.49;PhD
+4843;M;39;1.67;Elementary
+4844;F;59;1.64;Elementary
+4845;M;60;1.75;High School
+4846;M;52;1.58;High School
+4847;F;26;1.91;Bachelor's
+4848;F;37;1.6;Master's
+4849;M;53;2;None
+4850;M;56;1.65;Bachelor's
+4851;M;38;1.54;High School
+4852;F;76;1.71;PhD
+4853;F;26;1.6;Elementary
+4854;F;70;1.73;PhD
+4855;M;23;1.67;PhD
+4856;F;75;1.93;High School
+4857;M;52;1.6;Elementary
+4858;M;69;1.47;PhD
+4859;M;27;1.98;Master's
+4860;M;76;1.6;Elementary
+4861;M;50;1.78;Master's
+4862;F;23;1.52;High School
+4863;F;29;1.93;Elementary
+4864;F;37;1.53;Bachelor's
+4865;F;43;1.57;Elementary
+4866;F;48;1.54;Elementary
+4867;M;18;1.84;None
+4868;M;73;1.95;Bachelor's
+4869;M;24;1.98;Master's
+4870;M;26;1.76;High School
+4871;F;74;1.72;Master's
+4872;F;39;1.77;None
+4873;F;39;1.64;Elementary
+4874;F;53;1.6;PhD
+4875;F;59;2;High School
+4876;F;59;1.55;Bachelor's
+4877;M;57;1.91;High School
+4878;F;52;1.51;Elementary
+4879;F;49;2;Master's
+4880;M;40;1.94;Master's
+4881;M;55;1.81;Bachelor's
+4882;M;62;1.84;Bachelor's
+4883;F;52;1.71;Master's
+4884;F;35;1.94;Bachelor's
+4885;F;62;1.82;High School
+4886;F;74;1.93;Master's
+4887;F;34;1.66;High School
+4888;F;29;1.54;Master's
+4889;F;75;1.47;PhD
+4890;M;48;1.47;High School
+4891;M;39;1.62;Master's
+4892;M;66;2.01;PhD
+4893;M;38;1.99;Master's
+4894;M;48;1.55;Elementary
+4895;F;33;1.99;High School
+4896;F;37;1.63;Elementary
+4897;F;66;1.59;None
+4898;M;55;1.64;Elementary
+4899;M;20;1.56;High School
+4900;M;31;1.5;Bachelor's
+4901;M;39;1.72;PhD
+4902;M;42;1.77;Bachelor's
+4903;F;52;1.62;Elementary
+4904;M;38;1.61;Bachelor's
+4905;F;53;1.51;Master's
+4906;M;30;1.7;PhD
+4907;F;48;2;Elementary
+4908;F;25;1.65;Master's
+4909;F;36;1.54;High School
+4910;M;27;2;Bachelor's
+4911;M;63;1.78;Elementary
+4912;F;54;1.88;None
+4913;F;40;1.48;None
+4914;M;70;1.84;Bachelor's
+4915;M;28;1.68;Master's
+4916;M;74;1.57;Bachelor's
+4917;F;68;1.75;Master's
+4918;F;30;1.65;Bachelor's
+4919;M;67;1.83;High School
+4920;M;61;1.72;Bachelor's
+4921;M;27;1.81;High School
+4922;M;28;1.61;Bachelor's
+4923;M;63;1.89;Master's
+4924;M;66;1.66;Bachelor's
+4925;F;74;1.65;High School
+4926;M;28;1.5;Master's
+4927;M;45;1.72;High School
+4928;M;46;1.93;None
+4929;M;71;1.89;None
+4930;F;31;1.87;Elementary
+4931;F;19;1.53;Master's
+4932;F;29;1.97;PhD
+4933;M;41;1.92;None
+4934;F;66;1.85;High School
+4935;M;67;1.56;Elementary
+4936;M;45;1.92;PhD
+4937;F;22;1.82;Bachelor's
+4938;M;58;1.95;Master's
+4939;M;23;1.82;PhD
+4940;M;20;1.96;Elementary
+4941;M;68;1.59;Master's
+4942;M;48;1.9;None
+4943;F;32;2;PhD
+4944;M;26;1.75;Bachelor's
+4945;M;31;1.82;Bachelor's
+4946;M;47;1.58;High School
+4947;F;41;1.54;Bachelor's
+4948;F;26;1.88;Master's
+4949;F;55;1.66;Master's
+4950;M;24;1.6;High School
+4951;M;46;1.8;PhD
+4952;F;44;1.47;Elementary
+4953;M;64;1.82;Elementary
+4954;M;68;1.82;Bachelor's
+4955;F;31;1.58;None
+4956;F;71;1.98;None
+4957;M;44;1.66;Elementary
+4958;M;57;1.49;Bachelor's
+4959;M;30;1.74;Master's
+4960;M;46;1.83;None
+4961;F;44;1.53;Master's
+4962;M;31;1.96;Elementary
+4963;M;70;1.62;None
+4964;M;29;1.54;None
+4965;M;44;1.76;Bachelor's
+4966;M;43;1.52;PhD
+4967;F;60;1.92;None
+4968;M;23;1.66;None
+4969;M;59;1.85;Master's
+4970;F;50;1.89;High School
+4971;F;30;1.75;Master's
+4972;F;48;1.54;PhD
+4973;M;21;1.53;Elementary
+4974;F;60;1.84;Elementary
+4975;F;32;1.73;Elementary
+4976;M;31;1.79;PhD
+4977;F;26;1.84;None
+4978;M;36;1.7;High School
+4979;M;29;1.67;None
+4980;F;26;1.79;High School
+4981;F;74;1.91;High School
+4982;F;53;1.52;PhD
+4983;F;39;1.69;Elementary
+4984;M;55;1.51;Bachelor's
+4985;M;43;1.97;High School
+4986;M;38;1.56;Bachelor's
+4987;M;51;1.59;Elementary
+4988;F;30;1.68;Master's
+4989;M;51;1.98;Bachelor's
+4990;F;25;1.95;PhD
+4991;F;28;1.48;PhD
+4992;F;56;1.84;High School
+4993;M;59;1.9;Master's
+4994;M;31;1.96;Master's
+4995;M;52;1.94;High School
+4996;M;28;1.94;None
+4997;F;57;1.63;PhD
+4998;F;20;1.79;None
+4999;F;66;1.52;Master's
+5000;M;53;1.82;High School
